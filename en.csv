@@ -1,1 +1,1964 @@
-lang,default,EN\nlang,code,en-EN\nlang,culture_info,en-EN\ngeneral,export-graph,Export Graph\ngeneral,export-xml,Export .XLSX\ngeneral,export-graph-desc,Pick dates and export graph data as .PDF or .XLSX. Suitable to view in any table supporting platform.\ngeneral,percentage,{{value}}%\ngeneral,skip,Skip\ngeneral,language,Language\ngeneral,next,Next\ngeneral,userAgreement,User Agreement\ngeneral,kvkk,KVKK\ngeneral,iys,IYS\ngeneral,or,or\ngeneral,countries,Countries\ngeneral,search_countries,Search Country...\ngeneral,crop_list_title,Crop List\ngeneral,later,Later\ngeneral,save,Save\ngeneral,make_search,Search\ngeneral,previous,Previous\ngeneral,switch,Switch to\ngeneral,pick-date,Pick a date\ngeneral,pick-time,Pick a time\ngeneral,edit,Edit\ngeneral,cancel,Cancel\ngeneral,clear,Clear\ngeneral,save_changes,Save Changes\ngeneral,reset,Reset\ngeneral,warning,Warning\ngeneral,no,No\ngeneral,yes,Yes\ngeneral,empty-header,We encountered an unexpected problem\ngeneral,empty-content,Please try again later\ngeneral,refresh,Refresh\ngeneral,filter,Filter\ngeneral,yesterday,Yesterday\ngeneral,today,Today\ngeneral,tomorrow,Tomorrow\ngeneral,na,Undefined\ngeneral,no_internet_title,No internet connection\ngeneral,no_internet_desc,You must be connected to the internet to use the application.\ngeneral,retry_connection,Retry\ngeneral,fertilizer_list_title,Fertilizer Method List\ngeneral,irrigation_list_title,Irrigation List\ngeneral,spraying_list_title,Spraying list\ngeneral,submit,Submit\ngeneral,pdf,.Pdf\ngeneral,excel,Excel\ngeneral,file-type,File Type\ngeneral,crop_list,Crop List\ngeneral,crop-variety-list,Crop Variety List\ngeneral,city_title,City List\ngeneral,district_title,District List\ngeneral,village_title,Village List\ngeneral,confirm,Confirm\ngeneral,close_alert,Close Alert\ngeneral,device-update,Update device\ngeneral,image-not-available,Photos cannot be shared or exported\ngeneral,demo-version,You’re currently using demo version of PestTrap\ngeneral,error_on_image_delete,Your photo could not be deleted.\ngeneral,soil_list_title,Soil Type\ngeneral,data-unavailable,Data currently unavailable\ngeneral,ok,Ok\ngeneral,finish,Finish\ngeneral,apple-maps,Apple Maps\ngeneral,google-maps,Google Maps\ngeneral,yandex-maps,Yandex Maps\ngeneral,change-language,Change Language\ngeneral,search-crop,Search Crop\ngeneral,delete-anyway,Delete anyways\ngeneral,yes-sure,Yes, I am sure\ngeneral,cancel-remove,No, I don't want to remove it\ngeneral,cancel-delete,Don't delete it\ngeneral,select,Select\ngeneral,select-variable,Select a variable\ngeneral,get-started,Get started\ngeneral,all,All\ngeneral,license-regarding,Regarding your license\ngeneral,license-renew,I’d like to renew my license.\ngeneral,license-extend,No, don’t extend my license\ngeneral,license-contact,Thank you for your request, our team will contact you soon.\ngeneral,license-negative-message,Without renewing your license, you won't be able to get updated data\ngeneral,licence-email,Technical Support: support@doktar.com\ngeneral,license-phone,Telephone: +90 (850) 433 6477\ngeneral,license-ok,I got it\nerrors,login_not_valid,Please fill the required areas.\nerrors,device-data-not-available,Unable to access device data.\nerrors,user-already-exist,The phone number is already in use. Please check the information you entered and try again.\nerrors,phone-number-or-password-is-incorrect,Phone number or password is incorrect\nerrors,record-not-found,Record Not Found\nerrors,stage-date-must-be-less-than-next-stage-date,Stage date must be less than next stage date.\nerrors,record-already-exist,This stage is already added, please check the stage name.\nerrors,http_request_unexpected_error,We encountered an unexpected problem\nerrors,auth-error,\nerrors,email-already-used,e-Mail already used.\nerrors,stage-date-must-be-greater-than-previous-stage-date,Stage date must be greater than previous stage date.\nerrors,invalid-operation,It is not possible to trade in the demo field.\nerrors,timeline-crop-cannot-be-null-or-empty,Crop is required field\nerrors,timeline-id-cannot-be-null,Id is required field\nerrors,timeline-stage-cannot-be-null-or-empty,Stage is required field\nerrors,timeline-tempfarmattid-cannot-be-null-or-empty,Farm is required field\nerrors,flagsave-id-cannot-be-null,Id is required field\nerrors,flagsave-description-cannot-be-null-or-empty,Description is required field\nerrors,flagsave-title-cannot-be-null-or-empty,Title is required field\nerrors,flagsave-tempfarmattid-cannot-be-null-or-empty,Farm is required field\nerrors,flagsave-flag-date-cannot-be-null-or-empty,Flag Date is required field\nerrors,flagsave-lat-cannot-be-null-or-empty,Location is required field\nerrors,flagsave-lon-cannot-be-null-or-empty,Location is required field\nerrors,email-is-already-in-use,Email is already in use\nerrors,phonenumber-format-is-not-suitable,Phonenumber format is not suitable\nerrors,farm-geo-type-cannot-be-null-or-empty,Draw is required field\nerrors,farm-geo-type-must-be-Polygon-or-Point,Draw format is not suitable\nerrors,sowing-date-cannot-be-null-or-empty,Sowing date is required field\nerrors,sowing-date-less-than-harvest-date,The sowing date cannot be greater than the harvest date.\nerrors,harvest-date-cannot-be-null-or-empty,Harvest date is required field\nerrors,harvest-date-greater-than-sowing-date,Harvest date cannot be less than sowing date\nerrors,crop-cannot-be-null-or-empty,Crop is required field\nerrors,lat-cannot-be-null,locaiton is required field\nerrors,lon-cannot-be-null,Location is required field\nerrors,tempfarmattid-cannot-be-null-or-empty,Farm is required field\nerrors,flag-id-cannot-be-null-or-empty,Flag Id is required field\nerrors,description-cannot-be-null-or-empty,Description is required field\nerrors,incorrect-or-expired-password,Verification code you entered is incorrect.\nerrors,old-password-is-incorrect,The old password you entered is incorrect.\nerrors,password-has-not-expired,The last code sent is still active\nauth,login,Login\nauth,register,Register\nauth,email_or_phone,Email or Phone Number\nauth,password,Password\nauth,login_succeed,Wellcome, again.\nauth,login_not_valid,Please fill the required areas.\nauth,enter_valid_email_or_phone,Please enter a valid email address or phone number.\nauth,phone_number,Phone Number\nauth,namesurname,Name Surname\nauth,namesurname_validation_error,Must contain at least 2 words\nauth,phone_validation_error,Enter a valid phone number\nauth,email,Email\nauth,email_validation_error,Enter a valid email address\nauth,password_validation_error,Password must be min 6 character\nauth,passwordCheck,Enter Password Again\nauth,password_mismatch_error,Passwords are not the same\nauth,register_agreements_item,I have read and agree to the <a class='btn_userAgreement'>User Agreement</a>, <a class='btn_kvkk'>Privacy Policy</a>, <a class='btn_iys'>MMS</a>\nauth,register_btn,Register\nauth,welcome-header,Welcome to IoTrack\nauth,welcome-content,Control your fields’ health by tracking your PestTrap and Filiz devices\nauth,lets-start,Let’s start!\nauth,forgot-your-pass,Forgot your password?\nauth,forget_password_title,Forgot Password\nauth,forget_pass_desc,To reset your password, a code will be sent to your number.\nauth,request_code_btn,Send Code\nauth,enter_code_title,Enter the code\nauth,enter_code_desc,Enter the code that was sent to the number ending with “{{number}}”\nauth,confirm_btn,Confirm\nauth,send_again,Send another code\nauth,new_password,New Password\nauth,new_password_desc,Enter a new password\nauth,match_password,Passwords do not match\nauth,password_again,Password Again\nauth,success_change_password,Your password has been successfuly changed\nauth,gotcha,Got it!\nauth,kvkk,kvkk_en.html\nauth,Kullanim_Kosullari_Kullanici_Sozlesmesi,Kullanim_Kosullari_Kullanici_Sozlesmesi_en.html\nauth,CommercialElectronicMessage,CommercialElectronicMessage_en.html\nauth,user_agreement,User Agreement\nauth,commercial_electronic_message_agreement,Commercial Electronic Message Consent and Disclosures\nauth,terms-of-use,IoTrack Terms of Use and User Agreement\nauth,kvkk_header,Privacy Policy Terms\nauth,aggrement_userpolicy_title,User Aggrement\nauth,want-register,You haven't registered.Do you want to register?\nauth,Privacy_Policy,privacy-policy_en.html\nauth,privacy_agreement,Privacy Agreement\nauth,social-register-info,Fill in the missing information below to continue.\nauth,provide-social-type,This information was obtained from {{ socialType }}\nauth,password_max_length_err,Password must contain a maximum of 14 characters\nauth,welcome-desc,A single app for all your devices\nauth,welcome-sub-desc,Monitor. Track. Analyze\nauth,how-does-it-work,How does IoTrack work?\non-boarding,header-1,Track pests easily & spray on time\non-boarding,description-1,View PestTrap captures via your phone, get informed instantly about rises in the pest population.\non-boarding,header-2,Visualize the evolution of pest population in your field.\non-boarding,description-2,Analyze key metrics, view data over time, and summarize with graphs. Get insights for the whole season.\non-boarding,header-3,Monitor Soil and Weather Data Remotely and Take Action on Time\non-boarding,description-3,Filiz monitors the soil and weather conditions in your field and provides recommendations to optimize your irrigation, disease risk management, frost risk management and spraying decisions\non-boarding,header-4,View the Processed, and Interpreted Data\non-boarding,description-4,Check the graphs for all the measurements of the field, and examine all the records.\ndevice-field-add,add-device,Add your device\ndevice-field-add,select-device,Select your device\ndevice-field-add,scan-code,Scan the QR code\ndevice-field-add,look-code,Look behind the device to find the QR code\ndevice-field-add,scan,Scan\ndevice-field-add,enter-id-manually,Enter ID manually\ndevice-field-add,qr-code,Place the QR code inside the rectangle above\ndevice-field-add,device-id,Device ID\ndevice-field-add,save,Save\ndevice-field-add,add-your-field,Add your field\ndevice-field-add,add-field-desc,Draw or search your field in this step\ndevice-field-add,add-field,Add field\ndevice-field-add,draw-field,Draw the field\ndevice-field-add,parcel,Parcel Inquiry\ndevice-field-add,saved-field-list,Select from Saved fields list\ndevice-field-add,search,Search\ndevice-field-add,select-field,Select field\ndevice-field-add,pick-current-location,Pick my current location\ndevice-field-add,add-field-information,Add field information\ndevice-field-add,info-step,Enter your field information in this step\ndevice-field-add,all-set,You’re all set!\ndevice-field-add,save-success,Your device and field have successfully been added\ndevice-field-add,start-pesttrapp,Start using PestTrap\ndevice-field-add,pair-another-device,Pair another device\ndevice-field-add,start-filiz,Start using Filiz\ndevice-field-add,enter,Enter\ndevice-field-add,welcome,Welcome!\ndevice-field-add,demo-text,You can use the demo version of both devices to explore the app\ndevice-field-add,try-pest-demo,Try PestTrap\ndevice-field-add,try-filiz-demo,Try Filiz\ndevice-field-add,pair-device,Have a device? Pair it now.\ndevice-field-add,confirm-id,Confirm ID\ndevice-field-add,8-char,Device ID must be 8 characters!\ndevice-field-add,error-draw-header,The dots are not properly connected\ndevice-field-add,back-drawing,Back to drawing\ndevice-field-add,confirm-text,To confirm your drawing, connect the dots\ndevice-field-add,confirm,Confirm\ndevice-field-add,device-not-exist,The device is not registered to the system. Please try again with another device number.\nadd_field,find_field_title,Find Your Field\nadd_field,draw_farm,Draw the field\nadd_field,parcel_inquiry,Parcel Inquiry\nadd_field,saved_list,Select from Saved fields list\nadd_field,fly_my_current_location,Pick my current location\nadd_field,farm_save_title,Field Registration\nadd_field,farm_save_desc,Your field is average {{area}}. You can edit this information later.\nadd_field,farm_save_desc2,\nadd_field,farm_name_label,Field name\nadd_field,farm_name_required,Field name is required!\nadd_field,crop_name_label,Crop name\nadd_field,crop_required,Product selection is required!\nadd_field,crop_variety_name_label,Crop variety\nadd_field,sowing_date_Label,Sowing Date\nadd_field,harvest_date_Label,Harvest Date\nadd_field,save_farm,Save the field\nadd_field,succes_modal_title_guest,Nice Field!\nadd_field,success_modal_title,Nice Field!\nadd_field,succes_modal_desc_guest,We saved your field! You need to create an account to continue and view info specific to your field.\nadd_field,success_desc_title,We have successfully saved your field!\nadd_field,register_btn,Register\nadd_field,continue_as_guest,Continue as Guest\nadd_field,see_packages,View Plans\nadd_field,back_to_map,Back to Map\nadd_field,zoom_in_to_first_point,Zoom in on your field to add the first point.\nadd_field,add_other_clock_wise,Add the other points in clockwise or counterclockwise order. Do not intersect polygon boundaries.\nadd_field,touche_first_to_complete,Tap the first point to complete the drawing.\nadd_field,tap_drawing_to_update_or_reshape,You can activate editing by touching the drawing. Your field is now ready to save.\nadd_field,confirm_field_draw,Confirm Field\nadd_field,parsel_inquiry,Parcel Inquiry\nadd_field,city_lbl,City\nadd_field,district_lbl,District\nadd_field,village_lbl,Village\nadd_field,block_lbl,Block\nadd_field,parcel_lbl,Parcel\nadd_field,submit_request_btn,Submit Request\nadd_field,click_to_update_farm_borders,You can click to update borders.\nadd_field,sowing_date,Sowing Date\nadd_field,irrigation_name_label,Irrigation method\nadd_field,soil_name_label,Soil Type\nadd_field,farming_method,Farming Method\nadd_field,farming_method_required,Required field\nadd_field,update_farm,Update Farm\nadd_field,undefined,Undefined\nadd_field,parcel_not_found_title,Parcel not Found\nadd_field,parcel_not_found,Parcel not Found\nadd_field,inquiry_again_btn,Try to Inquiry Again\nadd_field,parcel_not_found_desc,Parcel does not found.\nadd_field,empty-header,No field data could be found\nadd_field,empty-content,Please check other data.\nadd_field,not-equal-date,Sowing date must be different from harvest date.\nadd_field,change-dates,Harvest Date must be greater than Sowing Date.\nadd_field,find_location,Use the search bar above as you have not granted location permission\nadd_field,lines_crossed_alert_desc,The edges of the field you draw intersect.\nadd_field,complete_drawing,Complete the Drawing\nadd_field,farm-save-desc,Your field is approx. {{area}}\nadd_field,farm-save-title-v2,Add field information\nadd_field,crop-information-title,Crop Information\nmonths,january,January\nmonths,february,February\nmonths,march,March\nmonths,april,April\nmonths,may,May\nmonths,june,June\nmonths,july,July\nmonths,august,August\nmonths,september,September\nmonths,october,October\nmonths,november,November\nmonths,december,December\ncrops,Marul,Lettuce\ncrops,Roka,Arugula\ncrops,Tere,Cress\ncrops,Karpuz,Watermelon\ncrops,Kavun,Melon\ncrops,Fasülye,Bean\ncrops,Elma,Apple\ncrops,Kiraz,Cherry\ncrops,Portakal,Orange\ncrops,Zeytin,Olive\ncrops,Ceviz,Walnut\ncrops,Patlıcan,Eggplant\ncrops,Buğday,Wheat\ncrops,Fiğ,Vetch\ncrops,Çilek,Strawberry\ncrops,Burçak,Bitter Vetch\ncrops,Bağ Kurutmalık,Raisin\ncrops,Ahududu,Raspberry\ncrops,Altıntop (Greyfurt),Grapefruit\ncrops,Anason,Anise\ncrops,Antepfıstığı,Pistachios\ncrops,Armut,Pear\ncrops,Arpa,Barley\ncrops,Aspir,Safflower\ncrops,Ayçiçeği,Sunflower\ncrops,Ayva,Quince\ncrops,Badem,Almond\ncrops,Bakla,Broad Bean\ncrops,Bamya,Okra\ncrops,Bezelye,Pea\ncrops,Börülce,Cowpea\ncrops,Brokkoli,Broccoli\ncrops,Çavdar,Rye\ncrops,Çeltik,Paddy\ncrops,Dereotu,Dill\ncrops,Dut,Mulberry\ncrops,Enginar,Artichoke\ncrops,Erik,Plum\ncrops,Filotu,Giant Miscanthus\ncrops,Haşhaş,Poppy\ncrops,Havuç,Carrot\ncrops,İğde,Silverberry\ncrops,İncir,Fig\ncrops,Ispanak,Spinach\ncrops,Kabak,Zucchini\ncrops,Kanola,Canola\ncrops,Karnabahar,Cauliflower\ncrops,Kayısı,Apricot\ncrops,Kayısı Kurutmalık,Dried Apricot\ncrops,Keçi Boynuzu,Carob\ncrops,Kekik,Thyme\ncrops,Kereviz,Celery\ncrops,Kestane,Chestnut\ncrops,Kimyon,Cumin\ncrops,Kivi,Kiwi\ncrops,Korunga,Sainfoin\ncrops,Sarımsak Kuru,Garlic\ncrops,Soğan Kuru,Onion\ncrops,Lahana,Cabbage\ncrops,Limon,Lemon\ncrops,Mandarin,Tangerines\ncrops,Maydanoz,Parsley\ncrops,Mercimek,Lentil\ncrops,Mürdümük,Grass Pea\ncrops,Muşmula,Medlar\ncrops,Nane,Mint\ncrops,Nar,Pomegranate\ncrops,Nohut,Chickpea\ncrops,Pamuk,Cotton\ncrops,Pazı,Chard\ncrops,Pırasa,Leek\ncrops,Şeftali,Peach\ncrops,Şekerpancarı,Sugar Beet\ncrops,Semizotu,Purslane\ncrops,Sorgum,Sorghum\ncrops,Soya Fasülyesi,Soybean\ncrops,Susam,Sesame\ncrops,Sarımsak Taze,Green Garlic\ncrops,Soğan Taze,Green Onion\ncrops,Trabzon Hurması,Persimmon\ncrops,Tritikale,Triticale\ncrops,Tütün,Tobacco\ncrops,Üçgül,White Clover\ncrops,Vişne,Cherry\ncrops,Yenidünya,Loquat\ncrops,Yerfıstığı,Groundnut\ncrops,Yonca,Alfalfa\ncrops,Yulaf,Oat\ncrops,Biber,Pepper\ncrops,Hıyar,Cucumber\ncrops,Patates,Potato\ncrops,Bağ Şaraplık,Grape Wine\ncrops,Bağ Sofralık,Grape\ncrops,Fındık,Hazelnut\ncrops,Nektarin,Nectarines\ncrops,Çay,Tea\ncrops,Mısır Silajlık,Corn Silage\ncrops,Barbunya,Kidney Bean\ncrops,Böğürtlen,Blackberry\ncrops,Acur,Armenian Cucumber\ncrops,Mısır Danelik,Corn\ncrops,Kuru soğan tohum,Onion Seed\ncrops,Soğan Arpacık,Potato Onions\ncrops,Şalgam,Turnip\ncrops,Şalgam Yemlik,Forage Turnip\ncrops,Fasülye Kuru,Haricot Bean\ncrops,Brüksel Lahanası,Brussels Sprouts\ncrops,Fasülye (2. Ürün),Beans (2.Planting)\ncrops,Muz,Banana\ncrops,Turp,Radish\ncrops,Çörek Otu,Black Cumin\ncrops,Şerbetçiotu,Hop\ncrops,Domates Sanayilik,Tomato Paste\ncrops,Domates Sofralık,Tomato\ncrops,Domates,Tomato\ncrops,Tatlı Mısır,Sweet Corn\ncrops,Tohumluk Mısır,Corn Seed\ncrops,Kinoa,Quinoa\ncrops,Pancar Kırmızı,Red Beet\ncrops,Mısır Cin (Patlak),Popcorn\ncrops,Çim,Grass\ncrops,Turşuluk Hıyar,Gherkin\ncrops,Patates Sanayilik,Potato Industry\ncrops,Seçiniz,Choose\ncrops,Ödemiş Mısır,Odemis Corn\ncrops,farm-not-sowing,No Field Planted\ncrops,Adaçayı,Sage\ncrops,Ağaç Kavunu,Citron\ncrops,Ahlat,Wild Pear\ncrops,Ak Üçgül,White Clover\ncrops,Alabalık,Trout\ncrops,Alıç,Hawthorn\ncrops,Altınçilek,Golden Strawberry\ncrops,Anaç manda,Broodstock\ncrops,Arapsaçı,Tangle\ncrops,Arı,Bee\ncrops,Armut Japon,Pear Japanese\ncrops,Arpa (Yeşil Ot),Barley (Green Grass)\ncrops,Avokado,Avocado\ncrops,Ayçiçeği Yağlık,Sunflower Oil\ncrops,Bakla (Kuru),Broad Bean\ncrops,Bakla Yemlik,Broad Bean Manger\ncrops,Bektaşi Üzümü,Gooseberry\ncrops,Bergamot,Bergamot\ncrops,Bezelye Yemlik,Pea Manger\ncrops,Biberiye,Rosemary\ncrops,Bol Salat,Plenty of Salat\ncrops,Bombus Arısı,Bumblebee\ncrops,Buğday (Yeşil Ot),Wheat (Green Grass)\ncrops,Buzağı,Calf\ncrops,Caramba Mix,Caramba Mix\ncrops,Cennet Elması,Heavenly Apple\ncrops,Ceviz Pikan,Walnut Pikan\ncrops,Cibes,Cibez\ncrops,Civanperçemi,Yarrow\ncrops,Çam Fıstığı,Pine Nuts\ncrops,Çavdar (Yeşil Ot),Rye (Green Grass)\ncrops,Çayır Üçgülü,Meadow Clover\ncrops,Çemen,Grass\ncrops,Çiğ Süt,Raw Milk\ncrops,Çok Yıllık Çim (Lolium Perenne),Perennial Grass\ncrops,Çöven,Çöven\ncrops,Dağ Çayı,Mountain Tea\ncrops,Damızlık Koç,Breeding Sheep\ncrops,Damızlık Teke,Bredding Goat\ncrops,Damızlık Tosun,Breeding Beef\ncrops,Defne,daphne\ncrops,Domuz Ayrığı,Swine\ncrops,Dulavrat Otu,Burdock\ncrops,Düve,Heifer\ncrops,Ebegümeci,Hibiscus\ncrops,Ejder Meyvesi,Dragon Fruit\ncrops,Ekinezya,Echinacea\ncrops,Endivyen,The Endivy\ncrops,Erik Japon,Plum Japanese\ncrops,Erik Papaz,Plum Pastor\ncrops,Fasülye Maş,Bean Mash\ncrops,Fesleğen,Basil\ncrops,Fiğ Macar,Vetch Hungarian\ncrops,Frambuaz,Raspberry\ncrops,Frenk Maydanozu,Chervil\ncrops,Frenk Üzümü,Red Currant\ncrops,Fresia,Freesia\ncrops,Gazal Boynuzu,Gazal Horn\ncrops,Gelincik,Poppy\ncrops,Gerbera,Gerbera\ncrops,Gilaburu,Gilaburu\ncrops,Glayöl,Gladiolus\ncrops,Gojiberry,Gojiberry\ncrops,Gül,Rose\ncrops,Hindiba,Chicory\ncrops,Hint Keneviri,Cannabis\ncrops,Hünnap,Jujube\ncrops,Hüsnüyusuf,Sweet William\ncrops,Isırgan Otu,Dead Nettle\ncrops,İnek,Cow\ncrops,İris,Iris\ncrops,İskenderiye Üçgülü,Alexandria Triangle\ncrops,İtalyan Çimi,Italian Grass\ncrops,Kabak Bal,Pumpkin Honey\ncrops,Kadife,Velvet\ncrops,Kamışsı Yumak,Cane Yarn\ncrops,Kamkat,Kumquat\ncrops,Kantaron,Centaury\ncrops,Karabuğday,Buckwheat\ncrops,Karanfil,Clove\ncrops,Karayemiş,Black Eaten\ncrops,Kartopu,Snowball\ncrops,Kasımpatı,Chrysanthemum\ncrops,Keçi,Goat\ncrops,Kenevir Lif,Hemp Fiber\ncrops,Keten Lif,Linen Fiber\ncrops,Keten Otu,Flax Grass\ncrops,Kılçıksız Brom,Fishbone Bromine\ncrops,Kızılcık,Cranberry\ncrops,Kişniş,Coriander\ncrops,Kohlraby,Kohlrabi\ncrops,Kop Salat,Kop Salat\ncrops,Koyun,Sheep\ncrops,Krizantem,Chrysanthemum\ncrops,Kudret Narı,Pomegranate Pomegranate\ncrops,Kuş Üzümü,Currants\ncrops,Kuşburnu,Rosehip\ncrops,Kuşkonmaz,Asparagus\ncrops,Kuzukulağı,Sorrel\ncrops,Labada,Labada\ncrops,Lale,Tulip\ncrops,Latin Çiçeği,Latin Flower\ncrops,Lavanta,Lavender\ncrops,Likarpa,Likarp\ncrops,Lilyum,Lilies\ncrops,Limon Grass,Lemongrass\ncrops,Lisanthus,Lisianthus\ncrops,Lolorosso,Lolorosso\ncrops,Lolorosso (Kırmızı),Lolorosso (Red)\ncrops,Lolorosso (Yeşil),Lolorosso (Green)\ncrops,Malak,Málaga\ncrops,Mango,Mango\ncrops,Mantar,Mushroom\ncrops,Melissa,Melissa\ncrops,Menekşe,Violet\ncrops,Mercanköşk,Marjoram\ncrops,Mısır Silajlık (Kuru),Corn Silage (Dry)\ncrops,Mısır Silajlık (Sulu),Corn Silage\ncrops,Midye,Mussel\ncrops,Mizuna,Mizuna\ncrops,Nadas,Fallow\ncrops,Nergiz,Calendula\ncrops,Nerine,Nerina\ncrops,Orkide,Orchid\ncrops,Ortanca,Hydrangea\ncrops,Otlak Ayrığı,Pasture Separation\ncrops,Pancar,Beet\ncrops,Papatya,Daisy\ncrops,Pepino,Pepino\ncrops,Petunya,Petunia\ncrops,Polorosso,Polorosso\ncrops,Radika,Radika\ncrops,Ranunculus (Düğün Çiçeği),Ranunculus (Buttercup)\ncrops,Rezene,Fennel\ncrops,Safran,Saffron\ncrops,Salep,Sahlep\ncrops,Sardunya,Sardinia\ncrops,Sığır,Beef\ncrops,Sıkleman Çiçeği,Flower\ncrops,Solidago (Altın Başak),Solidago (Goldenrod)\ncrops,Sorgum-Sudanotu Melezi,Sorghum-Sudanese Hybrid\ncrops,Statice,Statica\ncrops,Stevia,Stevie\ncrops,Sudan Otu,Sudanese Weed\ncrops,Sumak,Sumac\ncrops,Sümbül,Hyacinth\ncrops,Şebboy,Gillyflower\ncrops,Şevketibostan,Blessed Thistle\ncrops,Şiniklav,Siniklav\ncrops,Tangelo,Tangelo\ncrops,Tangor,Tango\ncrops,Tarçın,Cinnamon\ncrops,Tarhun,Tarragon\ncrops,Tatsoi,The Tatson\ncrops,Tohum (Kutu),Seed (Box)\ncrops,Tritikale (Yeşil Ot),Triticale (Green Herb)\ncrops,Turp Beyaz,Radish White\ncrops,Turunç,Bitter Orange\ncrops,Üvez,Rowanberry\ncrops,Yaban Mersini,Blueberries\ncrops,Yaban Orkidesi,Wild Orchid\ncrops,Yapay Çayır-Mera,Artificial Meadow-Pasture\ncrops,Yaş Koza,Age Cocoon\ncrops,Yem Baklası,Feed Pods\ncrops,Yeni Türler,New Species\ncrops,Yerelması,Topinambour\ncrops,Yonca (Kuru),Alfalfa (Dry)\ncrops,Yonca (Sulu),Alfalfa (Juicy)\ncrops,Yulaf (Yeşil Ot),Oats (Green Herb)\ncrops,Zahter,Zahter\ncrops,Zencefil,Ginger\ncrops,Zerdali,Zerdali\ncrops,Zeytinyağı,Olive Oil\ncrops,Sazan,Carp\ncrops,Oğlak,Goat\ncrops,Koç,Ram\ncrops,Teke,Billy\ncrops,Tosun,Bullock\ncrops,Fasülye (Kuru),Dry Beans\ncrops,Lolorosso (Kırmızı Yaprak),Lolorosso (Red-leaved)\ncrops,Lolorosso (Yeşil Yaprak),Lolorosso (Green-leaved)\ncrops,Pancar Yemlik,Fodder Beet\ncrops,Soğan Kuru (arpacık),Onion (Shallot)\ncrops,Stevia (Şeker otu),Stevia\ncrops,İpekböceği,Silkworm\ncrops,Manda,Mandate\ncrops,Ayçiçeği Çerezlik,Sunflower (Appetizers)\ncrops,Bakla Kuru,Fève sèche\ncrops,Boğadikeni,Eryngium\ncrops,Kadife Çiçeği,Tagetes\ncrops,Yabani Havuç,Daucus\ncrops,N/A,N/A\ncrops,Alabaş,Alabaster grass\ncrops,Çayır otu,Fescue\ncrops,Hardal otu,Leaf mustard\ncrops,Karabaş otu,Cassidony\ncrops,Karakafes otu,Comfrey\ncrops,Sakız ağacı,Mastic\ncrops,Menengiç,Terebinth\ncrops,Şevketi bostan,Blessed thistle\ncrops,Mahlep,Mahaleb\ncrops,Ihlamur,Linden\ncrops,Turp otu,Wild radish\ncrops,Darı,Panicum\ncrops,Kapari,Cappers\ncrops,Hurma,Date Palm\ncrops,Şeker kamışı,Molasses\ncrops,Frenk Soğanı,Chive\ncrops,Aronya,Chokeberry\ncrops,Hatmi,Epicalyces\ncrops,Kuzu kulağı,Stachys byzantina\ncrops,Kahve,Coffee\ncrops,Keten,Flax\ncrops,Palmiye,Palm\ncrops,Guava,Guava\ncrops,Hindistan cevizi,Coconut\ncrops,Goji Berry,Goji Berry\ncrops,Yer Elması,Yam\nweather,%RH,%RH\nweather,°C,°C\nweather,Cloudy,Cloudy\nweather,date,Date\nweather,Drizzle,Drizzle\nweather,Drizzle (probably),Drizzle (probable)\nweather,empty-content,Please check other information.\nweather,empty-header,Weather information not available.\nweather,Hail,Hail\nweather,Heavy Rain,Heavy Rain\nweather,heavy-snow,Heavy Snow\nweather,humidity,Humidity\nweather,legend,Legend\nweather,Light Rain,Light Rain\nweather,light-snow,Light Snow\nweather,medium-snow,Medium Snow\nweather,Partly cloudy,Partly Cloudy\nweather,precipitation,Precipitation\nweather,Rain,Rain\nweather,report,Precip\nweather,status,Weather\nweather,Storm,Storm\nweather,sunrise,Sunrise\nweather,sunset,Sunset\nweather,temperature,Temperature\nweather,time,Time\nweather,Very cloudly,Very Cloudy\nweather,wind,Wind\nweather,no-data-header,No forecast available. Better late than never!\nweather,no-data-text,Please check again in an hour.\nweather,filter-no-data-header,Hmm.. we can't find any results\nweather,filter-no-data-text,Don't worry! Why not try searching for other keywords?\nwind-direction,0,Directions\nwind-direction,1,South\nwind-direction,2,South West\nwind-direction,3,West\nwind-direction,4,North West\nwind-direction,5,North\nwind-direction,6,North East\nwind-direction,7,East\nwind-direction,8,South East\nwind-direction,1_s,S\nwind-direction,2_s,SW\nwind-direction,3_s,W\nwind-direction,4_s,NW\nwind-direction,5_s,N\nwind-direction,6_s,NE\nwind-direction,7_s,E\nwind-direction,8_s,SE\nunit,mm,mm\nunit,km/h,km/h\nunit,m/s,m/s\nunit,inch,inch\nunit,F,°F\nunit,mph,mph\nweather-status,Açık Hava,Clear Sky\nweather-status,Alçak Sis,Low-Lying Fog\nweather-status,Bulutlu/Arada Güneşli,Cloudy/Occasionally Sunny\nweather-status,Güneşli,Sunny\nweather-status,Güneşli/Dağınık Bulutlu,Sunny/Partly Cloudy\nweather-status,Güneşli/Sağnak Yağmurlu,Sunny/Heavy Rain\nweather-status,Hafif Yağmur,Light Rain\nweather-status,Kar Sağnağı,Heavy Snow\nweather-status,Kar Yağışlı,Light Snow\nweather-status,Karla Karışık Yağmurlu,Rain and Snow\nweather-status,Parçalı Bulutlu,Partly Cloudy\nweather-status,Sağnak Yağmurlu,Heavy Rain\nweather-status,Yıldırımlı,Thunderous\npesttrapp-home,welcome-back,Welcome back\npesttrapp-home,welcome-back-desc,Follow daily updates on your PestTrap\npesttrapp-home,battery,Battery\npesttrapp-home,network,Network\npesttrapp-home,status,Status\npesttrapp-home,on,On\npesttrapp-home,off,Off\npesttrapp-home,view-map,View on the map\npesttrapp-home,summary,Overview\npesttrapp-home,very good,Very Good\npesttrapp-home,good,Good\npesttrapp-home,low,Low\npesttrapp-home,very low,Very Low\npesttrapp-home,no-signal,No Signal\npesttrapp-home,,-\npesttrapp-home,pest-count-by-type,Pest Count by type\npesttrapp-home,last-catch-by-type,Last Catch by type\npesttrapp-home,sticky-trap,Sticky Trap\npesttrapp-home,last-change-date,Last change date\npesttrapp-home,change,Change\npesttrapp-home,pheromone-lure,Pheromone Lure\npesttrapp-home,expiration-date,Expiration date\npesttrapp-home,pest-type,Pest Type\npesttrapp-home,spraying,Spraying\npesttrapp-home,last-spraying-date,Last spraying date\npesttrapp-home,timeline,Timeline\npesttrapp-home,edit,Edit\npesttrapp-home,view,View\npesttrapp-home,pesttrapp-home,-\npesttrapp-home,empty-header,No device data could be found\npesttrapp-home,empty-content,\npesttrapp-home,last-one-day-catch,Last 1 Day Catch\npesttrapp-home,last-three-day-catch,Last 3 Day Catch\npesttrapp-home,last-five-day-catch,Last 5 Day Catch\npesttrapp-home,sticky-full-text,Trap is full, it may affect the pest count accuracy.\npesttrapp-home,sticky-almost-full-text,Trap is almost full, it may affect the pest count accuracy.\npesttrapp-home,preparing-image,Preparing the image...\npesttrapp-home,preparing-image-text,This process may take a moment. Thank you for your understanding.\nspraying,empty-header,No spraying data could be found\nspraying,empty-content,If you’ve have sprayed recently, please add by tapping on the button below\nspraying,enter-date,Enter a date\nspraying,view-suitable-hours,View Suitable Hours\nspraying,spraying-date,Spraying Date\nspraying,chemical-type,Chemical type\nspraying,add-spraying,Add spraying date\nspraying,add-desc,Date of your latest spraying\nspraying,chemical-choice,Chemical type of your choice\nspraying,add,Add\nspraying,save-success,Your spraying data has successfully been added\nspraying,,\nspraying,choose-chemical-type,Please choose chemical type.\nspraying,no-data,Add a date\nsticky-trap,sticky-trap-changes,Sticky Trap Changes\nsticky-trap,enter-date,Enter a date\nsticky-trap,change-date,Change date\nsticky-trap,not-available,Not available\nsticky-trap,add,Add\nsticky-trap,empty-header,No trap changes have been done\nsticky-trap,empty-content,Add a trap change by tapping on the button below\nsticky-trap,empty,Empty\nsticky-trap,moderately-full,Moderately full\nsticky-trap,half-full,Half full\nsticky-trap,moderately-empty,Moderately empty\nsticky-trap,too-full,Too full\nsticky-trap,full,Full\nsticky-trap,update-trap,Update Trap\nsticky-trap,add-desc,Add the date of your trap renewal\nsticky-trap,date-entered,Date entered\nsticky-trap,save,Save\nsticky-trap,change-trap,Change trap date\nsticky-trap,no-data,Add a date\nsticky-trap,save-success,Your sticky trap have successfully been added\nsticky-trap,almost-full,Almost full\npheromone-lure,details,Last added Pheromone lure details\npheromone-lure,empty-header,No lure changes have been logged\npheromone-lure,empty-content,Enter a stage by tapping on the button below\npheromone-lure,add-lure,Add a lure\npheromone-lure,expiration-date,Expiration date\npheromone-lure,opened-on,Opened on\npheromone-lure,pheromone-status,Pheromone Status\npheromone-lure,add-pheromone,Add the info for your pheromone trap\npheromone-lure,change-pheromone,Change the info for your pheromone trap\npheromone-lure,placement-date,Placement Date\npheromone-lure,pheromone-type,Pheromone Type\npheromone-lure,pheromone-expiry-date,Pheromone Expiry Date\npheromone-lure,add,Add\npheromone-lure,bug-list,Pheromone Type List\npheromone-lure,save-success,Your pheromone lure data and insect type have successfully been added\npheromone-lure,date-warning,Expiry Date must be greater than Change Date. Please change your change date or expiry date.\npheromone-lure,choose-insect-type,Please choose insect type.\npheromone-lure,no-data,Add a date\npheromone-lure,date-err,The expiry date of the pheromone lure must be greater than the placement date.\npheromone-lure,change-pheromone-lure,Pheromone insertion date\nfarm-list,trap,<img src='../../../../../assets/images/feromon-device.png'> Paired to PestTrap\nfarm-list,filiz,<img src='../../../../../assets/images/filiz-device.png'> Paired to Filiz\nfarm-list,filiz-pro,<img src='../../../../../assets/images/filiz-device.png'> Paired to Filiz Pro\nfarm-list,view,View\nfarm-list,add-field,Add a Field\nfarm-list,search-farm,Search Field\nfarm-list,trap-title,PestTrap\nfarm-list,filiz-title,Filiz\nfarm-list,filiz-pro-title,Filiz-Pro\nfarm-list,filiz-mini-title,Filiz Mini\nfarm-list,imported-from,Imported from {{ importFarm }}\nconstants,Insecticide,Insecticide\nconstants,Herbicide,Herbicide\nconstants,Fungicide,Fungicide\nconstants,Organik,Organic\nconstants,Konvansiyonel,Conventional\nconstants,Sulamıyorum,Non-Irrigated Arable Land\nconstants,Yağmurlama,Sprinkler Irrigation\nconstants,Salma,Surface Irrigation\nconstants,Damla,Drip Irrigation\nconstants,Center Pivot,Center Pivot\nconstants,İnce Kumlu-Tınlı,Fine Sandy Loamy\nconstants,Killi-Tınlı,Clay Loam\nconstants,Kumlu-Killi-Tınlı,Sandy Clay Loam\nconstants,Kumlu-Tınlı,Sandy Loam\nconstants,Siltli-Killi-Tınlı,Silty Clay Loam\nconstants,Siltli-Killi,Silty Clay\nconstants,Siltli-Tınlı,Silt Loam\nconstants,Tınlı-Kumlu,Loamy Sand\nconstants,Tınlı,Loam\nconstants,Killi,Clay\nconstants,Kumlu,Sand\nconstants,Milli,Silt\nconstants,Asidik,Acidic\nconstants,Bazik,Alkaline\nconstants,Nötr,Neutral\nconstants,Milli-Killi,Silty Clay\nconstants,Default,Default\nconstants,Mantar,Fungus\nconstants,Böcek,Insect\nconstants,Besin Eksikliği,Nutrient Deficiency\nconstants,Su,Water\nconstants,Azot,Nitrogen\nconstants,Altyapı,Structure\nconstants,Virüs,Virus\nconstants,Fosfor Eksikliği,Phosphorus Deficiency\nconstants,Potasyum Eksikliği,Potassium Deficiency\nconstants,Çinko Eksikliği,Zinc Deficiency\nconstants,Magnezyum Eksikliği,Magnesium Deficiency\nconstants,Kalsiyum Eksikliği,Calcium Deficiency\nconstants,Demir Eksikliği,Iron Deficiency\nconstants,Bakır Eksikliği,Copper Deficiency\nconstants,Obruk,Pothole\nconstants,Dolu,Hail\nconstants,Damlatıcı Tıkanması,Dripper Blockage\nconstants,Su Öbeği,Water Heap\nconstants,Ekilmemiş Alan,Uncultivated Area\nconstants,Farklı Çeşit,Different Variety\nconstants,Gelişme,Vegetative Growth\nconstants,Meyve bağlama,Fruit Setting\nconstants,Diğer,Other\nconstants,Hastalık,Disease\nconstants,Sulama,Irrigation\nconstants,Yabancı Ot,Weed\nconstants,Zararlı,Pest\nconstants,null,N/A\nconstants,Göllendirme,Ponding\nconstants,Liquid Fertilizers,Liquid Fertilizers\nconstants,Organomineral Fertilizers,Organomineral Fertilizers\nconstants,Plant Growth Regulators,Plant Growth Regulators\nconstants,Solid Fertilizers,Solid Fertilizers\nconstants,5. yaprak,5. Leaf\nconstants,Filizlenme,Germination\nconstants,Başaklanma,Earing\nconstants,9. yaprak,9. Leaf\nconstants,Koçan oluşumu,Corncob Development\nconstants,Püsküllenme,Tassel Emergence\nconstants,3. gerçek yaprak,3. Leaf\nconstants,Koza oluşumu,Cotton Ball Development\nconstants,Kozanın açılması,Cotton Ball Opening\nconstants,Çimlenme,Germination\nconstants,3. yaprak,3. Leaf\nconstants,Tomurcuklanma,Budding\nconstants,Kapsülün oluşumu,Capsule Development\nconstants,Kapsül çizimi,Capsule Cut\nconstants,4. yaprak,4. Leaf\nconstants,Fide boyu 50 cm,Steam Reaches 50 cm\nconstants,Yaprak kırma,Harvest\nconstants,Çiçek tablası oluşumu,Flowerbud Development\nconstants,Dallanma,Ramificatin\nconstants,Yaprak oluşumu,Leaf Formation\nconstants,2. yaprak çifti,2. Leaf\nconstants,Tabla oluşumu,Receptacle Development\nconstants,6-10 Yaprak,6-10 Leaf\nconstants,Şaşırtma (fideleme),Seedling\nconstants,Gelişme dönemi,Vegetative Growth\nconstants,7. yaprak oluşumu,7. Leaf\nconstants,Yeniden büyüme,Regrowth\nconstants,Sürgün gelişme dönemi,Shoot Growth\nconstants,Çiçeklenme öncesi,Pre-Flowering\nconstants,Koza gelişim dönemi,Fruit Development\nconstants,İlk mahsul,First Crop\nconstants,Çiçek tomurcuğu oluşumu,Bud Development\nconstants,Son mahsul,Last Crop\nconstants,Olgunlaşma,Ripening\nconstants,Erkek çiçeklerin görülmesi,Bud Break\nconstants,Dişi çiçeklerin görülmesi,Female Flower Development\nconstants,Yapraklanma,Leafing\nconstants,Büyüme,Germination\nconstants,Yaprakların büyümesi,Leaf Growing\nconstants,Yaprakların çoğalması,Leaf Multiplication\nconstants,Çiçek sapı oluşumu,Flower Stem\nconstants,Yeni yaprakların görülmesi,New Leaf Presence\nconstants,Çiçek salkımı oluşumu,Raceme Development\nconstants,Çiçek gruplarının görülmesi,Raceme Development\nconstants,Salkım oluşumu,Raceme Development\nconstants,Tomurcukların kabarması,Bud Break\nconstants,Tomurcukların açılması,Bud Opening\nconstants,Çiçeklenme,Flowering\nconstants,Meyve oluşumu,Fruit Development\nconstants,Ekim Dikim,Planting\nconstants,Uyanma,Awakening\nconstants,N/A,N/A\nconstants,Ekim ,Planting\nconstants,Hasat,Harvest\nconstants,Sürme,Bud Break\nconstants,Ekim,Planting\nconstants,1. kesim,First Cut\nconstants,6. yaprak,6 Leaf\nconstants,Yüzeyde en fazla yapraklanma,Maximum Leaf\nconstants,Çiçeklenme dönemi,Flowering\nconstants,Çimlenme-Filizlenme,Germination\nconstants,Daneler irileşmeye başlayınca aralar tam kapanmadan,Berry Enlargement\nconstants,Daneler tatlanma döneminde,Berry Sugar Level Increase\nconstants,Gövdenin görünmesi,Stem Developement\nconstants,İlk gerçek yaprak çifti,First Leaf\nconstants,Kardeşlenme,Tillering\nconstants,Kol atma,Branching\nconstants,Sapa kalkma,Bolting\nconstants,Son kesim,Last Cut\nconstants,Sürgünler 25-30 cm boya ulaşınca,Shoots 25-30 cm\nconstants,Tane tutum ve irileşme dönemi,Setting\nconstants,Yaprak solgunluğu,Leaves Withering\nconstants,Yeşil olgunluk,Green Capsule\nconstants,Yeşil-sarı olgunluk,Brown Capsule\nconstants,Yumru oluşumu,Tuberization\nconstants,Yumruların şişmesi,Tuberization\nconstants,Harvest date,Harvest\nconstants,Sowing date,Sowing\nconstants,mm,mm\nconstants,ton/ha,ton/ha\nconstants,Traktör/Ekipman Hasarı,Tractor/Equipment Damage\nconstants,Hatalı İlaçlama,Incorrect Spraying\nconstants,Taşlı Alan,Stony Area\nconstants,Bakteri,Bacteria\nconstants,Su Eksikliği,Lack of Water\nconstants,Su Birikimi,Water Accumulation\nconstants,Geniş Yapraklı,Broadleaf\nconstants,Dar Yapraklı,Narrowleaf\nconstants,Hayvan,Animalfta\nconstants,Yavru oluşumu,Offspring Formation\nconstants,Belirtilmemiş,Unknown\nconstants,Sabit Debi,Bubbler Irrigation\ntimeline,add-stage,Add a stage\ntimeline,empty-header,No stages have been added yet\ntimeline,empty-content,Notice any changes on the field? Log it by tapping on the button below.\ntimeline,add-stage-date,Add stage date\ntimeline,add-desc,Date of your stage\ntimeline,stage-type,Stage type\ntimeline,save-success,Your timeline data has successfully been added\ntimeline,stage-name,Stage name\ntimeline,stage-date,Start date\ntimeline,current-stage,Current Stage\ntimeline,started-on,Started on\ntimeline,add-dates,Add dates\ntimeline,phenelogical-stages,Phenological Stages\ntimeline,not-specified,Not specified\ntimeline,not-selected,Not selected\ntimeline,stage-info,Stages are displayed chronologically\ntimeline,start-date,Estimated start date\ntimeline,date-for,Date for {{value}}\ntimeline,start-add-date,Start adding dates\ntimeline,stage-dates,Stage dates\ntimeline,dates-required,*Plantation and harvest dates are required.\ntimeline,of,of\ntimeline,finish-later,Finish later\ntimeline,done,Done\ntimeline,quit-save-title,Are you sure you want to go back without saving?\ntimeline,quit-save-desc,Quitting will revert any unsaved changes\ntimeline,back-to-stages,Back to stages\ntimeline,discard-changes,Discard changes\ntimeline,save-changes-title,Input your own stages\ntimeline,save-changes-desc,Phenological Stages feature allows you to add your own stages and easily view the progress of your crops\ntimeline,dates,Dates\ntimeline,save-success-desc,You can later update the estimated dates in the <b>Phenological Stages</b> page.\ntimeline,date-error,You cannot enter a date equal to or less than the date of the previous stage. Please select a different date.\ntimeline,must-be-between-sowing-and-harvest,The date you choose must be between sowing and harvesting.\ndetail,15,15 cm\ndetail,45,45 cm\ndetail,details,Details\ndetail,field-information,Field Information\ndetail,area,Area\ndetail,name,Name\ndetail,id,ID\ndetail,location,Location\ndetail,crop-information,Crop Information\ndetail,variety,Variety\ndetail,planted-on,Planted On\ndetail,harvest-by,Harvest by\ndetail,until-days,Days until Harvest\ndetail,days,days\ndetail,last-update,Last update\ndetail,cpu-temperature,CPU Temperature\ndetail,licence-expiration-date,Licence Expiration Date\ndetail,battery-status,Battery Status\ndetail,sensor-id,Sensor ID\ndetail,m2m,M2M #\ndetail,MSISDN,MSISDN\ndetail,IMEI,IMEI\ndetail,IMSI,IMSI\ndetail,ICCID,ICCID\ndetail,delete-field,Delete field\ndetail,device-information,Device Information\ndetail,farm-delete,Are you sure want to delete this field?\ndetail,farm-nearest,nearest\ndetail,sensor-selection,Sensor Selection\ndetail,sensor-selection-title,Soil Moisture Sensor Selection\ndetail,sensor-select-value,Please select the sensor for notification\ndetail,sensor-type,Sensor type\ndetail,45-sensor,45 cm Soil Moisture Sensor\ndetail,15-sensor,15 cm Soil Moisture Sensor\ndetail,sensor,Sensor\ndetail,sensor_notification_title,Sensor notifications updated\ndetail,sensor_notification_desc,Sensor at {{value}}cm level has been selected as default, your irrigation notifications will be sent accordingly.\ndetail,sensor_notification_err,There was an error while retrieving information\ndetail,remove-field,Remove Field\ndetail,shared-field-delete,Are you sure you want to delete your field{{ value }} ?\ndetail,delete-shared-field-desc,Deleting this field will cause it to be removed from other platforms,if any.\ndetail,cancel-delete,No, I don't want to delete it\ndetail,delete-success,Your field named {{value}} has been deleted.\ndetail,delete-imported-field-desc,The field will only be removed on this platform, you will continue to see it on {{ value }}\ndetail,imported-field-delete,Are you sure you want to remove your field {{ value }} ?\ndetail,deleted-field-title,Your field has been deleted.</br>\ndetail,deleted-field-desc,It's removed from other platforms too.\ndetail,removed-field-title,Your field has been removed.</br>\ndetail,removed-field-desc,It will continue to appear on {{value}}.\ndetail,not-selected,Not selected\ndetail,irrigation-method,Irrigation Method\ndetail,soil-type,Soil Type\ndetail,farming-method,Farming Method\ndetail,dashboard-dates,Dashboard Dates\ndetail,chilling-hours-date,Chilling Hours Date\ndetail,select-date,Select Dates\ndetail,harvested,Harvested\ndetail,save-changes-desc,Your changes has been saved. If something's not right, you can always change these dates in the <b>Field Details</b>\nsoil-sensor,30,30 cm\nsoil-sensor,SC1,45 cm\nsoil-sensor,SC3,15 cm\nsoil-sensor,SC3-sensor,15 cm Soil Moisture Sensor\nsoil-sensor,SC1-sensor,45 cm Soil Moisture Sensor\nsoil-sensor,sensor-notification-desc-SC1,Sensor at 45 cm level has been selected as default, your irrigation notifications will be sent accordingly.\nsoil-sensor,sensor-notification-desc-SC3,Sensor at 15 cm level has been selected as default, your irrigation notifications will be sent accordingly.\nsoil-sensor,45 cm-sensor,45 cm Soil Moisture Sensor\nsoil-sensor,15 cm-sensor,15 cm Soil Moisture Sensor\nsoil-sensor,30 cm-sensor,30 cm Soil Moisture Sensor\nsoil-sensor,60 cm-sensor,60 cm Soil Moisture Sensor\nsoil-sensor,sensor-notification-desc-15 cm,Sensor at 15 cm level has been selected as default, your irrigation notifications will be sent accordingly.\nsoil-sensor,sensor-notification-desc-45 cm,Sensor at 45 cm level has been selected as default, your irrigation notifications will be sent accordingly.\nsoil-sensor,SC5-sensor,30 cm Soil Moisture Sensor\nsoil-sensor,SC7-sensor,60 cm Soil Moisture Sensor\nsoil-sensor,SC5,30 cm\nsoil-sensor,SC7,60 cm\nsoil-sensor,sensor-notification-desc-30 cm,Sensor at 30 cm level has been selected as default, your irrigation notifications will be sent accordingly.\nsoil-sensor,sensor-notification-desc-60 cm,Sensor at 60 cm level has been selected as default, your irrigation notifications will be sent accordingly.\nbug,SalkimGuvesi,European Grapevine Moth\nbug,ElmaIcKurdu,Codling Moth\nbug,ZeytinGuvesi,Olive Moth\nbug,DomatesGuvesi,Tomato Leafminer\nbug,CicekTripsi,Western Flower Thrips\nbug,PatatesGuvesi,Potato Tuber Moth\nbug,PamukPembeKurt,Pink Bollworm\nbug,PamukYaprakKurdu,African Cotton Leafworm\nbug,YesilKurt,Cotton Bollworm\nbug,HarnupGuvesi,Locust Bean Moth\nbug,DoguMeyveGuvesi,Oriental Fruit Moth\nbug,ElmaYaprakBukeni,European Leaf Roller\nbug,AkdenizMeyveSinegi,Mediterranean Fruit Fly\nbug,ZeytinSinegi,Olive Fruit Fly\nbug,KizilAgacKurdu,Carpenter Moth\nbug,LimonCicekGuvesi,Citrus Flower Moth\nbug,KirazSinegi,Cherry Fruit Fly\nbug,SeftaliGuvesi,Peach Twig Borer\nbug,ErikIcKurdu,Red Plum Maggot\nbug,SariAgacKurdu,Leopard Moth\nbug,ElmaGovdeKurdu,Red-Belted Clearwing\nbug,BaklaZinni,Apple Blossom Beetle\nbug,KirmiziPalmiyeBocegi,Red Palm Weevil\nbug,KuruMeyveGuvesi,Indian-Meal Moth\nbug,DegirmenGuvesi,Mediterranean Flour Moth\nbug,TatliKurt,Cigarette Beetle\nbug,ArpaGuvesi,Angoumois Grain Moth\nbug,BugdayBiti,Grain Weevil\nbug,ElbiseGuvesi,Clothes Moth\nbug,GoknarBuyukKabukBocegi,Fir Engraver Beetle\nbug,YatayDisliGoknarKabukBocegi,Bark Beetle\nbug,AkdenizCamKabukBocegi,Mediterranean Pine Beetle\nbug,OnikiDisliCamKabukBocegi,Six-Toothed Bark Beetle\nbug,CamSurgunBukucusu,European Pine Shoot Moth\nbug,CamKeseBocegi,Pine Processionary Moth\nbug,CamKulturHortumluBocegi,Small Banded Pine Weevil\nbug,KucukOrmanBahcivani,Lesser Pine Shoot Beetle\nbug,BuyukOrmanBahcivani,Common Pine Shoot Beetle\nbug,AkdenizOrmanBahcivani,Mediterranean Pine Shoot Beetle\nbug,AltiDisliCamKabukBocegi,Engraver Beetle\nbug,KucukGoknarKabukBocegi,Small Fir Bark Beetle\nbug,FindikDalkiran,Pear Bright Beetle\nbug,SekizDisliCamKabukBocegi,Eight-Toothed Bark Beetle\nbug,AltinGozluBocek,Common Green Lacewing\nbug,TutunTripsi,Tobacco Thrips\nbug,TutunBeyazsinegi,Tobacco Whitefly\nbug,SeraBeyazsinegi,Greenhouse Whitefly\nbug,TuruncgilBeyazsinegi,Citrus whitefly\nbug,Ari,Bee\nbug,SoganSinegi,Onion Fly\nbug,TutunBeyazSinegi,Tobacco Whitefly\nbug,SeraBeyazSinegi,Greenhouse Whitefly\nbug,TuruncgilBeyazSinegi,Citrus Whitefly\nbug,Cisim,Other\nbug,MisirKocanKurdu,Mediterranean Corn Stalk Borer\nbug,Sinek,Fly\nbug,Feromon,Pheromone\nbug,Tanimsiz,Unidentified\nbug,AkdikenYaprakbukeni,Brown Oak Tortrix\nbug,AntepfistigiDalGuvesi,Pistachio Twig Borer\nbug,AtKestanesiYaprakOyucusu,Horsechestnut Leafminer\nbug,AvrupaCamGuvesi,Pine-Tree Lappet\nbug,AvrupaTahilGuvesi,European Grain Moth\nbug,AycicegiGuvesi,Sunflower Moth\nbug,Ayvaİckurdu,Quince Moth\nbug,BatiMisirKokkurdu,Western Corn Rootworm\nbug,BenekliSapKurdu,Spotted Stem Borer\nbug,BezelyeKapsulKurdu,Pea Moth\nbug,Bozkurt,Turnip Moth\nbug,CaliantenliCamYaprakarisi,Common Pine Sawfly\nbug,CamGuvesi,Pine Beauty Moth\nbug,CamTekebocegi,Pine Sawyer Beetle\nbug,DepoBocekleri,Skin Beetles\nbug,DikenliKurt,Egyptian Stem Borer\nbug,DisliBocek,Merchant Grain Beetle\nbug,DouglasGoknarıKabukbocegi,Douglas-Fir Beetle\nbug,DutKabukluBiti,Mulberry Scale\nbug,EkmekBocegi,Drugstore Beetle\nbug,ElmaGuvesi,Apple-fruit Moth\nbug,ElmaYaprakGaleriGuvesi,Spotted Tentiform Leafminer\nbug,GamaliKelebek,Silver Y\nbug,GoknarSurgunKelebegi,European Fir Budworm\nbug,GüzTirtili,Fall Armyworm\nbug,İncirKurdu,Almond Moth\nbug,Kabukbocegi,Black Hills Beetle\nbug,KahverengiKokarcaBocegi,Brown Marmorated Stink Bug\nbug,KanadiNoktaliSirkeSinegi,Spotted Wing Drosophila\nbug,KaraagacYaprakbukeni,Variegated Golden Tortrix\nbug,KavakKelebegi,Poplar Clearwing Moth\nbug,KirazCicegiGuvesi,Cherry Fruit Moth\nbug,KirmaBiti,Confused Flour Beetle\nbug,KirmiziTomurcukTirtili,Bud Moth\nbug,Kirtirtili,Gypsy Moth\nbug,KisGuvesi,Winter Moth\nbug,KucukMeyveGuvesi,Appleseed Moth\nbug,KusuzumuOyucusu,Currant Clearwing\nbug,LahanaGuvesi,Cabbage Moth\nbug,LahanaYaprakguvesi,Diamondback Moth\nbug,MeyveYaprakbukucusu,Rhomboid Tortrix\nbug,MisirdaPamukKurdu,Cotton Leafworm\nbug,MisirKurdu,European Maize Borer\nbug,MisirYuvarlakKurdu,Corn Earworm\nbug,PamukCizgiliYaprakKurdu,Beet Armyworm\nbug,PirasaGuvesi,Leek Moth\nbug,PirincBiti,Rice Weevil\nbug,PolifagYaprakBukucusu,Grey Red-Barred Twist\nbug,PortakalGuvesi,Honeydew Moth\nbug,RecineKelebegi,Pine Tip Moth\nbug,SedirKabukBocegi,-\nbug,TestereliBocek,Saw-Toothed Grain Beetle\nbug,TomurcukTirtili,Apple Brown Tortrix\nbug,TutunGuvesi,Cacao Moth\nbug,TutunTomurcukKurdu,Oriental Tobacco Budworm\nbug,Unakari,Flour Mite\nbug,UnBiti,Red Flour Beetle\nbug,Yaprakyapistiran,Summer Fruit Tortrix\nbug,YaprakYesiltirtili,Bud Moth\nbug,YesilTirtil,Clouded Drab\nbug,Asyagergedanbocegi,Asiatic Rhinoceros Beetle\nbug,null,Null\nbug,no-type,Add type\nbug,Palmiye,Palm\nbug,Cekirge,Grasshopper\nbug,SigaraBocegi,Cigarette beetle\nbug,AgustosBocegi,Cicada\nbug,KahverengiKokarca,Brown Skunk\nbug,Dalkiran,Dalkiran\nhistory,0,S\nhistory,1,D\nhistory,7,W\nhistory,30,M\nhistory,header,History\nhistory,analysis,Analysis\nhistory,export,Export\nhistory,share,Share\nhistory,filter,Filter\nhistory,Daily-Hourly,D\nhistory,Weekly,W\nhistory,Monthly,M\nhistory,Season,S\nhistory,Yearly,Y\nhistory,Half-Yearly,6M\nhistory,all-pest-count,All pest count\nhistory,trap-change,Trap change\nhistory,pest-with-count,{{number}} pests\nhistory,photos,Photos\nhistory,average,Average\nhistory,total,Total\nhistory,pheromone-change,PHEROMONE CHANGE\nhistory,sticky-trap-change,STICKY TRAP CHANGE\nhistory,changes-with-count,{{number}} changes\nhistory,day,Day\nhistory,month,Month\nhistory,year,Year\nhistory,reset-all,Reset all\nhistory,include-pest,Select Pest Types\nhistory,10-pests-capture,More than 10 pest captures in the photo\nhistory,apply,Apply\nhistory,pests,Pests\nhistory,select,Select\nhistory,selected-item,{{ number }} item selected\nhistory,between-these-days,Select Dates\nhistory,to,to\nhistory,pest-types,Pest Types\nhistory,reset,Reset\nhistory,pest-count,Pest Count\nhistory,delta,Delta\nhistory,cumulative,Cumulative\nhistory,show,Show\nhistory,ChangeFeromon,PHEROMONE CHANGE\nhistory,ChangeTrap,STICKY TRAP CHANGE\nhistory,IsHighPestDate,HIGH PEST DATE\nhistory,date,Date\nhistory,empty-chart,No data to display at this time.\n Please check back later\nhistory,Daily,D\nhistory,table,Table\nhistory,graph,Graph\nhistory,analysis-date,Analysis Date\nhistory,AirHumidity,Air Humidity\nhistory,SoilSurfaceHumidity,Soil Surface Humidity\nhistory,UnderSoilHumidity,Soil Mois. 15 cm\nhistory,UnderSoilHumidity1,Soil Mois. 45 cm\nhistory,AirTemperature,Air Temperature\nhistory,SoilSurfaceTemperature,Soil Surface Temp.\nhistory,UnderSoilTemperature,Soil Temperature\nhistory,WDS,Wind Speed\nhistory,RC,Precipitation\nhistory,LI,Light Intensity\nhistory,ChillingHours,Chilling Hours\nhistory,time,Time\nhistory,table-no-data,There seems to be no data available for the selected date. Try another date to view the relevant data.\nhistory,remove,Remove\nhistory,success-photo-save,Your photos have been successfully saved to your gallery.\nhistory,failed-photo-save,An error occurred while saving your photos.\nhistory,album-name,PestTrap\nhistory,ETc,ETc\nhistory,LWD,Leaf Wetness Duration\nhistory,SC1,45 cm\nhistory,SC3,15 cm\nhistory,SC5,30 cm\nhistory,SC7,60 cm\nhistory,select-pest-type,Select a pest type\nhistory,showing-graphs,Showing graphs for\nhistory,empty-data-text,There is no data to show yet.\nhistory,lastValue,Cumulative Value\nhistory,LW,Leaf Wetness\nhistory,ChillingStd,Chilling Hours\nhistory,Evapotransporation,Evapotranspiration\nhistory,AirHumidityTop,Air Humidity\nhistory,AirTemperatureTop,Air Temperature\nhistory,AirHumidityBottom,Soil Surface Humidity\nhistory,AirTemperatureBottom,Soil Surface Temperature\nhistory,SoilHumidity,Soil Humidity\nhistory,SoilTemperature,Soil Temperature\nhistory,device-off,Device Off\nhistory,one-element-array,There is not enough data to produce a graph.\nhistory,PestCount,Pest Count\nfiliz-home,welcome-back,Welcome back\nfiliz-home,latest-updates,Latest updates\nfiliz-home,wind-speed,Wind Speed\nfiliz-home,precipitation,Precipitation\nfiliz-home,light-intensity,Light Intensity\nfiliz-home,air-humiditiy,Air Humiditiy\nfiliz-home,temperature,Air Temperature\nfiliz-home,soil-humidity,Soil Moisture\nfiliz-home,soil-temperature,Soil Temperature\nfiliz-home,no,No Risk\nfiliz-home,low,Low Risk\nfiliz-home,high,High Risk\nfiliz-home,fungus-risk,Fungus Risk\nfiliz-home,soil-moisture,Soil Moisture\nfiliz-home,gdd,GDD\nfiliz-home,chilling-hours,Chilling Hours\nfiliz-home,windstorm-risk,Windstorm Risk\nfiliz-home,rainfall-risk,Rainfall Risk\nfiliz-home,frost-risk,Frost Risk\nfiliz-home,inadequate,Inadequate\nfiliz-home,adequate,Adequate\nfiliz-home,std,Std.\nfiliz-home,utah,UTAH\nfiliz-home,nc,NC\nfiliz-home,sensor-history,Sensor History\nfiliz-home,AirHumidity,Air Humidity is a humidity value measured by Filiz’s top air sensor\nfiliz-home,view-sensor-history,View sensor history\nfiliz-home,select-graph-type,Select graph type:\nfiliz-home,start-date,Start date\nfiliz-home,end-date,End date\nfiliz-home,results,Results\nfiliz-home,select-period,Select period:\nfiliz-home,daily,Daily\nfiliz-home,hourly,Hourly\nfiliz-home,expand,Expand\nfiliz-home,min,Min\nfiliz-home,avg,Avg\nfiliz-home,max,Max\nfiliz-home,AirTemperature,Air Temperature\nfiliz-home,very_dry,<10\nfiliz-home,over_moisture,>50\nfiliz-home,soil-humiditiy-45,Soil Mois. 45cm\nfiliz-home,soil-humiditiy-15,Soil Mois. 15cm\nfiliz-home,soil-surface-humidity,Soil Surface Humidity\nfiliz-home,soil-surface-temp,Soil Surface Temperature\nfiliz-home,daily-etc,Daily ETc\nfiliz-home,mm-day,mm/day\nfiliz-home,hours,hours\nfiliz-home,leaf-wetness-duration,Leaf Wetness Duration\nfiliz-home,dew-point,Dew Point\nfiliz-home,soil-Humidity,Soil Mois.-\nfiliz-home,soil-humiditiy-30,Soil Mois. 30cm\nfiliz-home,soil-humiditiy-60,Soil Mois. 60cm\nfiliz-home,etc,ETc\nfiliz-home,ten-days,10 Days\nfiliz-home,mm,mm\nfiliz-home,new-measurement-title,More from the fields!\nfiliz-home,new-measurement-desc,You can now track Dew Point,Evapotranspiration and Leaf Wetness updates from the Update Cards.\nfiliz-home,new-measurement-button,Nice, got it\nfiliz-home,set-date,Set dates\nfiliz-home,choose-date,Choose default dates\nfiliz-home,chilling-set-date-title,Pick the dates that Chilling Hours will be based upon. This can be changed later in <b>Field Details</b>\nfiliz-home,gdd-set-date-title,Pick the Plantation and harvest dates of your field. This can be changed later in <b>Field Details</b>\nfiliz-home,set-and-done,All set and done!\nfiliz-home,chilling-desc,Chilling hours start date has been set to <b>{{value}}</b>. If something's not right, you can always change this date in the <b>Field Details</b>\nfiliz-home,gdd-desc,Plantation date has been set to <b>{{startDate}}</b> and Harvest date has been estimated to <b>{{endDate}}</b>. If something's not right, you can always change this date in the <b>Field Details</b>\nfiliz-home,got-it,Got it!\nfiliz-home,plantation-date,Plantation Date\nfiliz-home,estimated-date,Estimated Harvest Date\nfiliz-home,loading,Loading\nfiliz-home,set-date-soil-moisture,Add information\nfiliz-home,out of season,Out of season\nfiliz-home,unavailable,Model unavailable\nfiliz-home,under-protection,Under Protection\nfiliz-home,chilling-not-available-date,Chilling Hours is not available for this date.\nrecommendation,0,season\nrecommendation,7,week\nrecommendation,30,month\nrecommendation,header,Recommendation\nrecommendation,disease,Disease\nrecommendation,irrigation,Irrigation\nrecommendation,legend,Legend\nrecommendation,risk-status,Risk Status\nrecommendation,view-as-graph,View as a graph\nrecommendation,view-as-table,View as a table\nrecommendation,days-with-disease,Days with disease\nrecommendation,high-risk,High risk represent.Please spray as soon as possible\nrecommendation,spraying,Spraying\nrecommendation,view-past-sprayings,View past sprayings\nrecommendation,view-sprayings,View sprayings\nrecommendation,view-irrigations,View irrigations\nrecommendation,view-suitable-hours,View Suitable Hours\nrecommendation,add-spraying,Add Spraying\nrecommendation,HR,HR\nrecommendation,LR,LR\nrecommendation,NR,NR\nrecommendation,NA,N/A\nrecommendation,SP,SP\nrecommendation,available-not-active,Model for this disease is available, but not active due to the timing of the season.\nrecommendation,read-about,Read about\nrecommendation,empty-title,How do our disease models work?\nrecommendation,empty-desc,For the disease models to work, please add present phenelogical stages.\nrecommendation,add-stages,Add stages\nrecommendation,prepare-model,Preparing the model...\nrecommendation,irrigation-title,Important for irrigation models\nrecommendation,irrigation-desc,Add soil type to see the Irrigation Status\nrecommendation,add-info,Add information\nrecommendation,empty-desc-for-disease,For the disease models to work, please add {{list}}\nrecommendation,add-new-stages,Add new stages\nrecommendation,harvest-done,Harvest is done...\nrecommendation,harvest-done-desc,Your harvest date has passed, add new planting and harvest dates to continue working with the model.\nprofile,profile,Profile\nprofile,profile-desc,Change your profile information\nprofile,notification,Notifications\nprofile,notification-desc,Adjust your notification settings\nprofile,devices,My devices\nprofile,devices-desc,View and configure your devices\nprofile,settings,Settings\nprofile,settings-desc,Configure your application settings\nprofile,pest-chemical,Pest & Chemical Library\nprofile,pest-chemical-desc,About types of pest and chemicals\nprofile,faq,FAQ\nprofile,faq-desc,Find answers to your questions\nprofile,support,Support\nprofile,ask-agronomist,Ask an Agronomist\nprofile,error-log,Error Log\nprofile,error-log-desc,Submit your error logs for inspection\nprofile,version,Version {{version}}\nprofile,add-device,Add a device\nprofile,search-text,Type an Id or name...\nprofile,save,Save\nprofile,change-profile-photo,Change Profile Photo\nprofile,name-surname,Name Surname\nprofile,e-mail,E-mail\nprofile,age,Age\nprofile,city,City\nprofile,birth-date,Birth Date\nprofile,change-password,Change Password\nprofile,language,Language\nprofile,unit,Unit\nprofile,general,General\nprofile,agreements,Agreements\nprofile,user-agreement,Terms and Conditions and User Agreement\nprofile,personal-data,Privacy Policy\nprofile,electronic-message,Commercial Electronic Message Consent and Disclosures\nprofile,units,Units\nprofile,new_password_desc,Your password must be at least 6 and maximum 14 characters\nprofile,old-password,Old Password\nprofile,all-notifications,All Notifications\nprofile,ask-expert,Ask the Expert\nprofile,training-request,Training Request\nprofile,device-list,Device List\nprofile,user-manual,User Manual\nprofile,log-out,Log Out\nprofile,logout_alert_btn_confirm,Log out\nprofile,logout_alert_btn_cancel,Cancel\nprofile,logout_alert_title,Are you sure want to log out?\nprofile,questions,Questions\nprofile,you,You\nprofile,sent,Sent\nprofile,open,OPEN\nprofile,closed,CLOSED\nprofile,new-message,New message\nprofile,ask-the-expert,Ask the expert\nprofile,question-empty-header,You haven’t asked any questions yet\nprofile,question-empty-content,Tap the button below to ask your first questions.\nprofile,ask,Ask\nprofile,request-training-session,Request a training session\nprofile,device-id,Device ID(s)\nprofile,send-request,Send request\nprofile,pick-time-capture,Pick a time to capture\nprofile,active,Active in\nprofile,passive,Passive in\nprofile,device-empty-header,You haven’t added any devices\nprofile,device-empty-content,Tap the button on the top right to add a device\nprofile,type-id-name,Type an ID or name...\nprofile,pest-species,Pest Species\nprofile,last-pheromone-lure-change,Last pheromone lure change\nprofile,network-priority,Network Priority\nprofile,trap,PestTrap\nprofile,filiz,Filiz\nprofile,filiz-pro,Filiz Pro\nprofile,id,ID:\nprofile,last-sticky-change,Last sticky trap change\nprofile,license-expiration-date,Licence Expiration Date\nprofile,resolution,Resolution\nprofile,trap-photo-capture-time,Trap Photo Capture Time\nprofile,empty-header,You haven’t added any devices\nprofile,empty-content,Tap the button on the top right to add a device\nprofile,close-question,Close question\nprofile,concluded,This chat has been concluded\nprofile,weather,Weather\nprofile,agricultural,Agricultural\nprofile,other,Other\nprofile,success-save,Profile information saved successfully\nprofile,delete-account,Delete My Account\nprofile,delete-account-alert,You will lose the data in your account. Do you still want to delete your account?\nprofile,filiz-mini,Filiz Mini\nprofile,user-manual-desc,View device and app user manual\nunit_pref,area_lbl,Area\nunit_pref,temperature_lbl,Temperature\nunit_pref,speed_lbl,Speed\nunit_pref,rainfall_lbl,Rainfall\nunit_pref,kmh,km/h\nunit_pref,km/h,km/h\nunit_pref,mph,mil/h\nunit_pref,m/s,m/h\nunit_pref,da,da\nunit_pref,ha,ha\nunit_pref,ac,ac\nunit_pref,dekar,da\nunit_pref,hektar,ha\nunit_pref,acre,ac\nunit_pref,C,°C\nunit_pref,F,°F\nunit_pref,mm,mm\nunit_pref,inch,inch\nunit_pref,%RH,%RH\nunit_pref,h,h\nunit_pref,W/m2,W/m2\nunit_pref,%,%\nunit_pref,#,#\ndisease-legend,unknown,Disease model available but not active.\ndisease-legend,no-risk,No fungus risk has been detected.\ndisease-legend,low-risk,Preliminary conditions achieved no spraying required.\ndisease-legend,high-risk,Disease condition met, spray immediately.\ndisease-legend,spraying,You have sprayed, crop under protection.\nspraying-hours,header,Spraying Hours\nspraying-hours,today,Today\nspraying-hours,tomorrow,Tomorrow\nspraying-hours,description,For spraying, choose the times that coincide with the green parts.\nspraying-hours,suitable,Suitable\nspraying-hours,risky,Risky\nspraying-hours,done,Done\nspraying-hours,disease-model-not,DISEASE MODEL NOT AVAILABLE FOR THIS CROP\nspraying-hours,add-timeline-warning,For the disease models to work, please add present phenological stage information on your home page.\nspraying-hours,take-me-home,Take me home\nmap-filter,sudden-increase-fields,Sudden Pest Increase Fields\nmap-filter,frost-risk-status-fields,Frost Risk Status Fields\nmap-filter,disease-risk-fields,Disease Risk Status Fields\nmap-filter,harvest-season-fields,Harvest Season Fields\nmap-filter,scouting-notes-fields,Scouting Notes Fields\nmap-filter,trap-fields,PestTrap Fields\nmap-filter,filiz-fields,Filiz/Filiz Pro Fields\nmap-filter,how_to_add_note_lbl,To add a note to your field, press and hold a point within the field borders for 2 seconds.\nfarm-map,add-field,Add a Field\nfarm-map,add-new-field,Add a new field\nfarm-map,import-field,Import a Field\nfarm-map,no-filter-array,You do not have a field that matches the relevant filter rule.\ntools,irrigation_lbl,Irrigation\ntools,scouting_notes_lbl,Scouting Notes\ntools,spraying_hours_lbl,Spraying Hours\ntools,yield_calculation_lbl,Yield Calculation\ntools,got_it_btn,OK, got it!\ntools,yield_calc_coming_soon,You will soon be able to use Yield Calculation.\ntools,coming_soon,Soon!\ntools,description,Description\ntools,notes_opts_edit,Edit\ntools,notes_opts_share,Share\ntools,notes_opts_delete,Delete\ntools,notes_delete_current_note,Yes, delete it\ntools,notes_dont_want_to_delete,No, don't delete it\ntools,notes_delete_note_title,Are you sure you want to delete this note?\ntools,how_to_add_note_lbl,To add a note to your field, press and hold a point within the field borders for 2 seconds.\ntools,scouting_notes_title,Scouting Notes\ntools,scouting_notes_desc,With Scouting Notes, mark and take notes on potential problems that catch your eye on the Health Map. You can view the point you marked in the map applications and easily reach the problem area. You can share this note with others along with the location you marked. You can also easily add a note while in the field.\ntools,irrigation_title,Irrigation\ntools,irrigation_desc,After adding your info in our irrigation program, you can create an irrigation schedule and see how soil water content changes over time.\ntools,spraying_hours_title,Spraying Hours\ntools,spraying_hours_desc,Spraying Hours shows the available times to spray your field.\ntools,yield_calculation_title,Yield Calculation\ntools,yield_calculation_desc,Stay tuned for Yield Calculation!\nadd_note,notes_cancel,Cancel\nadd_note,notes_next,Next\nadd_note,notes_marker_must_be_in_farm,You must add the note within the field borders\nadd_note,add_note_title,Add Note\nadd_note,add_note_subtitle,Details\nadd_note,title_placeholder,Title\nadd_note,date_placeholder,\nadd_note,problem_lbl,Problem\nadd_note,tags_lbl,Tags\nadd_note,description_placeholder,Description*\nadd_note,info_lbl_1,Mark the location of your note on the field\nadd_note,save_and_send_to_engineer,Ask the expert\nadd_note,submit,Submit\nadd_note,error_on_note_save,An error occurred while saving the note.\nadd_note,error_on_photos_save,Note saved. However, an error occurred while uploading your photos.\nadd_note,check_add_ons_btn,View Plans\nadd_note,go_back_btn,Go Back\nadd_note,buy_add_on_to_add_more,To add multiple notes, you must upgrade your plan.\nadd_note,cannot_add_note_alert_title,Add Note\nadd_note,info_lbl_update_1,You can change the location of the note if needed.\nadd_note,no-data,You can add a new note within your field borders by pressing and holding for 2 seconds.\nadd_note,got-it,Got it!\nadd_note,delete-photo,Are you sure want to delete this photo?\nerror-log,submit-error-log,Submit an error log\nerror-log,device-id,Device ID*\nerror-log,upload-media,Upload media\nerror-log,upload-media-desc,You may include voice recordings, video or image files\nerror-log,description,Description\nerror-log,select-error-type,Select an error type\nerror-log,application,Application\nerror-log,device,Device\nerror-log,save-send,Save & Send\nerror-log,add-more,Add more\nerror-log,empty-header,No errors have been submitted yet\nerror-log,empty-content,Submit an error by tapping on the button below\nerror-log,add-error,Add an error\nerror-log,error-log,Error Log\nerror-log,error,Error #\nerror-log,add,Add New\nerror-log,required-desc,Please enter description\nerror-log,required-device,Please select device\nerror-log,failed,There was a problem during registration. Please check the information and try again.\nmedia-options,camera,Camera or Gallery\nmedia-options,video,Video record\nmedia-options,audio,Voice record\nmedia-options,select-media-type,Choose a media type\nfiliz-history,pick-variables,Pick variables to show\nfiliz-history,select-graph-show,Select graph to show\nfiliz-history,clear-all,Clear all\nfiliz-history,select-all,Select All\nfiliz-history,temperature,Temperature\nfiliz-history,air-temperature-top,Air Temperature\nfiliz-history,air-temperature-bottom,Soil Surface Temperature\nfiliz-history,soil-temperature,Soil Temperature\nfiliz-history,humidity,Humidity\nfiliz-history,air-humidity-top,Air Humidity\nfiliz-history,air-humidity-bottom,Soil Surface Humidity\nfiliz-history,soil-humidity,Soil Mois. 45cm\nfiliz-history,gdd-unit,GDD Unit\nfiliz-history,chilling-hours,Chilling Hours\nfiliz-history,frost,Frost\nfiliz-history,derivative,Derivative\nfiliz-history,clear,Clear\nfiliz-history,light-intensity,Light Intensity\nfiliz-history,precipitation,Precip\nfiliz-history,wind-speed,Wind Speed\nfiliz-history,show,Show\nfiliz-history,pro-variables,Pro variables\nfiliz-history,avg,AVG\nfiliz-history,min,MIN\nfiliz-history,max,MAX\nfiliz-history,soil-humidity-top,Soil Mois. 15cm\nfiliz-history,null,N/A\nfiliz-history,sum,SUM\nfiliz-history,nc,NC\nfiliz-history,std,STD\nfiliz-history,utah,UTAH\nfiliz-history,total,Total\nfiliz-history,temp-top,Air Temperature\nfiliz-history,temp-bottom,Soil Surface Temperature\nfiliz-history,humidity-top,Air Humidity\nfiliz-history,humidity-bottom,Soil Surface Humidity\nfiliz-history,soil-moisture-15,Soil Mois. 15cm\nfiliz-history,soil-moisture-45,Soil Mois. 45cm\nfiliz-history,evapotransporation,Evapotranspiration\nfiliz-history,leaf-wetness,Leaf Wetness\nfiliz-history,dew-point,Dew Point\nfiliz-history,soil-moisture-30,Soil Mois. 30cm\nfiliz-history,soil-moisture-60,Soil Mois. 60cm\nfiliz-history,etc,ETc\nfiliz-history,AirTemperatureTop,Air Temperature\nfiliz-history,SoilTemperature,Soil Temperature\nfiliz-history,AirTemperatureBottom,Soil Surface Temperature\nfiliz-history,AirHumidityTop,Air Humidity\nfiliz-history,AirHumidityBottom,Soil Surface Humidity\nfiliz-history,RC,Precipitation\nfiliz-history,WDS,Wind Speed\nfiliz-history,LI,Light Intensity\nfiliz-history,Evapotransporation,Evapotranspiration\nfiliz-history,LW,Leaf Wetness\nfiliz-history,DewPoint,Dew Point\nfiliz-history,ChillingHours,Chilling Hours\nfiliz-history,GddUnit,GDD\nfiliz-history,SoilHumidity,Soil Humidity\nfiliz-history,AirTemperatureTopMax,Air Temperature Max\nfiliz-history,AirTemperatureTopAvg,Air Temperature Avg\nfiliz-history,AirTemperatureTopMin,Air Temperature Min\nfiliz-history,SoilTemperatureMax,Soil Temperature Max\nfiliz-history,SoilTemperatureAvg,Soil Temperature Avg\nfiliz-history,SoilTemperatureMin,Soil Temperature Min\nfiliz-history,AirTemperatureBottomMax,Soil Surface Temperature Max\nfiliz-history,AirTemperatureBottomAvg,Soil Surface Temperature Avg\nfiliz-history,AirTemperatureBottomMin,Soil Surface Temperature Min\nfiliz-history,AirHumidityTopMax,Air Humidity Max\nfiliz-history,AirHumidityTopAvg,Air Humidity Avg\nfiliz-history,AirHumidityTopMin,Air Humidity Min\nfiliz-history,AirHumidityBottomMax,Soil Surface Humidity Max\nfiliz-history,AirHumidityBottomAvg,Soil Surface Humidity Avg\nfiliz-history,AirHumidityBottomMin,Soil Surface Humidity Min\nfiliz-history,RCMax,Precipitation Max\nfiliz-history,RCAvg,Precipitation Avg\nfiliz-history,RCMin,Precipitation Min\nfiliz-history,WDSMax,Wind Speed Max\nfiliz-history,WDSAvg,Wind Speed Avg\nfiliz-history,WDSMin,Wind Speed Min\nfiliz-history,LIMax,Light Intensity Max\nfiliz-history,LIAvg,Light Intensity Avg\nfiliz-history,LIMin,Light Intensity Min\nfiliz-history,EvapotransporationMax,Evapotranspiration Max\nfiliz-history,EvapotransporationAvg,Evapotranspiration Avg\nfiliz-history,EvapotransporationMin,Evapotranspiration Min\nfiliz-history,LWMax,Leaf Wetness Max\nfiliz-history,LWAvg,Leaf Wetness Avg\nfiliz-history,LWMin,Leaf Wetness Min\nfiliz-history,DewPointMax,Dew Point Max\nfiliz-history,DewPointAvg,Dew Point Avg\nfiliz-history,DewPointMin,Dew Point Min\nfiliz-history,ChillingStdMax,Chilling Std Max\nfiliz-history,ChillingStdAvg,Chilling Std Avg\nfiliz-history,ChillingStdMin,Chilling Std Min\nfiliz-history,ChillingUtahMax,Chilling Utah Max\nfiliz-history,ChillingUtahAvg,Chilling Utah Avg\nfiliz-history,ChillingUtahMin,Chilling Utah Min\nfiliz-history,ChillingNCMax,Chilling NC Max\nfiliz-history,ChillingNCAvg,Chilling NC Avg\nfiliz-history,ChillingNCMin,Chilling NC Min\nfiliz-history,GddUnitMax,GDD Max\nfiliz-history,GddUnitAvg,GDD Avg\nfiliz-history,GddUnitMin,GDD Min\nfiliz-history,empty_gdd_header,Critical for GDD Data\nfiliz-history,empty_gdd_desc,Add plantation and harvest dates to view graph history.\nfiliz-history,add_gdd_button,Enter Dates\nfiliz-history,empty_chilling_header,Critical for Chilling Hours Data\nfiliz-history,empty_chilling_desc,Add Chilling Hours calculation period to view graph history.\nfiliz-history,add_chilling_button,Specify Period\nfiliz-history,ChillingStd,Chilling Hours\nfiliz-history,export-selected-graph,Export selected graph data\nfiliz-history,export-all-data,Export all seasonal data\nfiliz-history,graphs_max,max\nfiliz-history,graphs_min,min\nfiliz-history,graphs_avg,avg\nfiliz-history,action-required,Action required\nfiliz-history,AirTemperature,Air Temperature\nfiliz-history,AirHumidity,Air Humidity\nadd_photo_options_title,0,A\nadd_photo_options_title,1,d\nadd_photo_options_title,2,d\nadd_photo_options_title,3, \nadd_photo_options_title,4,P\nadd_photo_options_title,5,h\nadd_photo_options_title,6,o\nadd_photo_options_title,7,t\nadd_photo_options_title,8,o\noptions_take_photo_lbl,0,T\noptions_take_photo_lbl,1,a\noptions_take_photo_lbl,2,k\noptions_take_photo_lbl,3,e\noptions_take_photo_lbl,4, \noptions_take_photo_lbl,5,P\noptions_take_photo_lbl,6,h\noptions_take_photo_lbl,7,o\noptions_take_photo_lbl,8,t\noptions_take_photo_lbl,9,o\noptions_choose_library_lbl,0,C\noptions_choose_library_lbl,1,h\noptions_choose_library_lbl,2,o\noptions_choose_library_lbl,3,o\noptions_choose_library_lbl,4,s\noptions_choose_library_lbl,5,e\noptions_choose_library_lbl,6, \noptions_choose_library_lbl,7,f\noptions_choose_library_lbl,8,r\noptions_choose_library_lbl,9,o\noptions_choose_library_lbl,10,m\noptions_choose_library_lbl,11, \noptions_choose_library_lbl,12,G\noptions_choose_library_lbl,13,a\noptions_choose_library_lbl,14,l\noptions_choose_library_lbl,15,l\noptions_choose_library_lbl,16,e\noptions_choose_library_lbl,17,r\noptions_choose_library_lbl,18,y\nadd_photo,0,A\nadd_photo,1,d\nadd_photo,2,d\nadd_photo,3, \nadd_photo,4,P\nadd_photo,5,h\nadd_photo,6,o\nadd_photo,7,t\nadd_photo,8,o\nphoto_gallery_title,0,P\nphoto_gallery_title,1,h\nphoto_gallery_title,2,o\nphoto_gallery_title,3,t\nphoto_gallery_title,4,o\nphoto_gallery_title,5,s\nno_photo_added_alert,0,N\nno_photo_added_alert,1,o\nno_photo_added_alert,2, \nno_photo_added_alert,3,p\nno_photo_added_alert,4,h\nno_photo_added_alert,5,o\nno_photo_added_alert,6,t\nno_photo_added_alert,7,o\nno_photo_added_alert,8,s\nsupport,main_title,Ask the Expert\nsupport,ask_btn,Ask\nsupport,add_new_question,Ask New Question\nsupport,details_subtitle,Details\nsupport,my_fields_lbl,My Fields\nsupport,crop_type_lbl,Crop\nsupport,problem_lbl,Problem\nsupport,description_placeholder,Description\nsupport,add_photo_placeholder,Add Photo (optional)\nsupport,ask_question,Ask\nsupport,field_list_title,My Fields\nsupport,error_on_save_question,An error occurred while saving your question.\nsupport,question_title,Question\nsupport,error_on_get_question,An error occurred while accessing question details.\nsupport,no_farm_associated,Field not found\nsupport,did_you_find_answer_sufficient,Did you find the answer of our expert sufficient?\nsupport,description_title,Description\nsupport,add_question_desc,You can ask your first question by clicking the button below.\nsupport,ask_first_question_btn,Ask First Question\nsupport,no_question_asked_yet,You have not asked any questions yet\nsupport,error_on_getting_questions,An error occurred while fetching questions.\nsupport,healt_map_analysis_title,Vegetation Distribution\nsupport,view_as_list_lbl,View as a list\nsupport,view_as_chart_lbl,View as a graph\nnotifications,main_title,Notifications\nnotifications,precipitation,Precip\nnotifications,rainfall-forecast-and-warning,Rainfall forecast and warning\nnotifications,storm,Storm\nnotifications,upcoming-storm-warning,Upcoming storm warning\nnotifications,soil-moisture-status,Soil moisture status\nnotifications,soil-moisture-status-warning,Soil moisture status warning\nnotifications,disease-risk-status,Disease risk status\nnotifications,disease-risk-status-warning,Disease risk status warning\nnotifications,pest-increase,Pest increase\nnotifications,number-of-pests-catched,Number of pests catched\nnotifications,expert's-answer,Expert's answer\nnotifications,answer-from-agronomist,Answer from agronomist\nnotifications,on-status,On status\nnotifications,device-is-on,Device is on\nnotifications,off-status,Off status\nnotifications,device-is-off,Device is off\nnotifications,tilting-device,Tilting device\nnotifications,Weather,Weather\nnotifications,Agricultural,Agricultural\nnotifications,Other,Other\nnotifications,device-is-tilted,Device is tilted\nnotifications,empty-header,You have no current notifications\nnotifications,empty-content,Please check back later.\nnotifications,Meteorological,Meteorological\nnotifications,Heavy-Rainfall,Heavy Rainfall\nnotifications,Upcoming-Storm,Upcoming Storm\nnotifications,Weather-Forecast,Weather Forecast\nnotifications,New-Satellite-Images,New Satellite Images\nnotifications,Irrigation-Schedule-Ready,Irrigation Schedule Ready\nnotifications,Irrigation-Schedule-Updated,Irrigation Schedule Updated\nnotifications,Irrigation-Reminder,Irrigation Reminder\nnotifications,Frost-Risk,Frost Risk\nnotifications,Disease-Risk,Disease Risk\nnotifications,Frost-Risk-Warning,Frost Risk Warning\nnotifications,Low-Soil-Moisture,Low Soil Moisture\nnotifications,Ongoing-Low-Soil-Moisture,Ongoing Low Soil Moisture\nnotifications,Fungal-Disease-Risk,Fungal Disease Risk\nnotifications,Ongoing-Fungal-Disease-Risk,Ongoing Fungal Disease Risk\nnotifications,Spraying-Wash-Out,Spraying Wash Out\nnotifications,High-Windspeed-and-Storm,High Wind Speed and Storm\nnotifications,Rainfall-Warning,Rainfall Warning\nnotifications,Pest-Number-Increase,Pest Number Increase\nnotifications,Sudden-Pest-Number-Increase,Sudden Pest Number Increase\nnotifications,Irrigation,Irrigation\nnotifications,Rainfall-Started,Rainfall Started\nnotifications,High-Air-Humidity,High Air Humidity\nnotifications,Rise-in-Soil-Moisture,Soil Moisture Increase\nirrigation,irrigation-status,Irrigation Status\nirrigation,irrigation-needed,Irrigation needed\nirrigation,no-need,No need. You're all set\nirrigation,cm,cm\nirrigation,current-soil-moisture,CURRENT SOIL MOISTURE\nirrigation,minimum-soil-moisture,MINIMUM SOIL MOISTURE\nirrigation,wet,WET\nirrigation,dry,DRY\nirrigation,expected-precipitation,Expected Precipitation\nirrigation,mm,mm\nirrigation,add-irrigation,Add Irrigation\nirrigation,add-irrigation-information,Add Irrigation information\nirrigation,irrigation-amount,Irrigation amount\nirrigation,irrigation-method,Irrigation method\nirrigation,fertilizer,Fertilizer\nirrigation,spraying,Spraying\nirrigation,irrigation-starts-on,Irrigation starts on\nirrigation,irrigation-ends-on,Irrigation ends on\nirrigation,irrigation,Irrigation\nirrigation,irrigation-time,Irrigation time\nirrigation,irrigation-duration,Irrigation duration\nirrigation,add-irrigation-details,Irrigation Details\nirrigation,last-irrigation-date,Last irrigation date\nirrigation,irrigation-date,Irrigation date\nirrigation,24-hour,for 24 hours\nirrigation,required,Required Field\nirrigation,empty-header,No irrigation data could be found\nirrigation,empty-content,If you’ve have irrigated recently, please add by tapping on the button below\nirrigation,enter-date,Enter a date\nirrigation,not-equal-dates,Start date must be different from end date.\nirrigation,error,An error has been encountered.\nirrigation,irrigation-unit,Unit\nirrigation,prepare-irrigation,Getting your irrigation status...\nirrigation,change-date,The irrigation end date must be greater than the start date.\nirrigation,Wet,Wet\nirrigation,sufficient,Optimal\nirrigation,Dry,Dry\nirrigation,min-soil-moisture,Minimum Soil Moisture\nirrigation,soil-moisture-info,The sensor with the highest moisture variation is closest to the effective root zone. We recommend that you monitor this sensor closely.\nirrigation,not-calculated,Not calculated yet\nirrigation,irrigation-status-info,If you recently irrigated, keep in mind that it may take a few days for the moisture values to rise.\nirrigation,max-soil-moisture,Maximum Soil Moisture\nirrigation,Full,Saturated\nchart-value,AirTemperature,Temperature value measured by Filiz's top air sensor.\nchart-value,AirHumidity,Humidity value measured by Filiz's top humidity sensor.\nchart-value,SoilSurfaceTemperature,Temperature value measured by Filiz's bottom air sensor.\nchart-value,SoilSurfaceHumidity,Humidity value measured by Filiz's bottom air sensor.\nchart-value,UnderSoilTemperature,Temperature value measured by Filiz's under soil sensor.\nchart-value,UnderSoilHumidity,Humidity value measured by Filiz's under soil sensor.\nchart-value,UnderSoilHumidity1,Humidity value measured by Filiz's under soil sensor.\nuser-manual,play_audio_opening_melody,Power On\nuser-manual,play_audio_closing_melody,Shut Down\nuser-manual,play_audio_status_on_melody,On\nuser-manual,play_audio_status_off_melody,Off\nuser-manual,play_audio_busy_melody,Busy\nuser-manual,error_on_user_manual,An error occured during loading the user manual!\nlocation-info,empty-header,Enter your current location\nlocation-info,empty-content,You can find your location with the search\nlocation-info,empty-header-1,The location you are looking for does not exist\nlocation-info,empty-content-1,Look for a different location\nlocation-info,loc,Enter location\nlocation-info,previous_location,Previous Location\ntab,home,Home\ntab,map,Map\ntab,history,History\ntab,profile,Profile\ntab,conditions,Conditions\npermission_alerts,close_btn,OK\npermission_alerts,open_settings_btn,Open Settings\npermission_alerts,camera_permisson_denied_desc,To continue, please enable camera access in the device Settings.\npermission_alerts,camera_permisson_denied_title,IoTrack Would Like to Access Your Camera\npermission_alerts,photos_permisson_denied_desc,To continue, please enable access to your photo library in the device Settings.\npermission_alerts,photos_permisson_denied_title,IoTrack Would Like to Access Your Photos\npermission_alerts,location_permisson_denied_desc,For a better IoTrack experience, please adjust your location permissions in the device Settings.\npermission_alerts,location_permisson_denied_title,IoTrack Would Like to Access Your Location\ncrop-variety,Genel,General\ncrop-variety,Erkenci,Early\ncrop-variety,Geç,Late\nmy-fields,shared_field_removed_title_singular,Your field “{{farm}}” has been removed\nmy-fields,shared_field_removed_desc,This field has been deleted from the platform it was created on, so it’s been removed here as well.\nmy-fields,shared_field_removed_primary_btn,OK, great\nmy-fields,n_of_your_fields_have_been_deleted,{{count}} of your fields have been removed\nmy-fields,multiple_shared_fields_removed_desc,These fields have been deleted from the platform it was created on, so it’s also been removed from this platform.\nmy-fields,shared_field_removed_secondary_btn,See the deleted fields list\nmy-fields,followed_fields_removed,The following {{count}} fields have been removed:\nmy-fields,got_it_btn,OK, got it\nwalkthrough,graph_chart_header,Hold and drag to explore data points\nwalkthrough,graph_chart_desc,View your graph in detail and track each data point.\nwalkthrough,next_btn_text,Next\nwalkthrough,graph_opts_header,Select which graph to view\nwalkthrough,graph_opts_desc,Scroll horizontally to pick a data source.\nwalkthrough,graph_filter_header,Apply filters to enhance graph details\nwalkthrough,graph_filter_desc,Select timeframes or dates and export if needed.\nwalkthrough,got_it_btn_text,Got it\nwalkthrough,done_btn_text,Done\nwalkthrough,graph_date_opts_header,Toggle between timeframes\nwalkthrough,graph_date_opts_desc,View your data by any selected period.\nwalkthrough,trap_graph_chart_header,Hold and drag to explore data points\nwalkthrough,trap_graph_chart_desc,Monitor changes in pest count and view spraying dates.\nwalkthrough,trap_graph_filter_header,Apply filters to enhance graph details\nwalkthrough,trap_graph_filter_desc,Select timeframes or dates and export if needed.\nwalkthrough,trap_graph_type_header,Select pest types\nwalkthrough,trap_graph_type_desc,View the impact of pest types on your field.\n
+lang;default;EN
+lang;code;en-EN
+lang;culture_info;en-EN
+general;export-graph;Export Graph
+general;export-xml;Export .XLSX
+general;export-graph-desc;Pick dates and export graph data as .PDF or .XLSX. Suitable to view in any table supporting platform.
+general;percentage;{{value}}%
+general;skip;Skip
+general;language;Language
+general;next;Next
+general;userAgreement;User Agreement
+general;kvkk;KVKK
+general;iys;IYS
+general;or;or
+general;countries;Countries
+general;search_countries;Search Country...
+general;crop_list_title;Crop List
+general;later;Later
+general;save;Save
+general;make_search;Search
+general;previous;Previous
+general;switch;Switch to
+general;pick-date;Pick a date
+general;pick-time;Pick a time
+general;edit;Edit
+general;cancel;Cancel
+general;clear;Clear
+general;save_changes;Save Changes
+general;reset;Reset
+general;warning;Warning
+general;no;No
+general;yes;Yes
+general;empty-header;We encountered an unexpected problem
+general;empty-content;Please try again later
+general;refresh;Refresh
+general;filter;Filter
+general;yesterday;Yesterday
+general;today;Today
+general;tomorrow;Tomorrow
+general;na;Undefined
+general;no_internet_title;No internet connection
+general;no_internet_desc;You must be connected to the internet to use the application.
+general;retry_connection;Retry
+general;fertilizer_list_title;Fertilizer Method List
+general;irrigation_list_title;Irrigation List
+general;spraying_list_title;Spraying list
+general;submit;Submit
+general;pdf;.Pdf
+general;excel;Excel
+general;file-type;File Type
+general;crop_list;Crop List
+general;crop-variety-list;Crop Variety List
+general;city_title;City List
+general;district_title;District List
+general;village_title;Village List
+general;confirm;Confirm
+general;close_alert;Close Alert
+general;device-update;Update device
+general;image-not-available;Photos cannot be shared or exported
+general;demo-version;You’re currently using demo version of PestTrap
+general;error_on_image_delete;Your photo could not be deleted.
+general;soil_list_title;Soil Type
+general;data-unavailable;Data currently unavailable
+general;ok;Ok
+general;finish;Finish
+general;apple-maps;Apple Maps
+general;google-maps;Google Maps
+general;yandex-maps;Yandex Maps
+general;change-language;Change Language
+general;search-crop;Search Crop
+general;delete-anyway;Delete anyways
+general;yes-sure;Yes, I am sure
+general;cancel-remove;No, I don't want to remove it
+general;cancel-delete;Don't delete it
+general;select;Select
+general;select-variable;Select a variable
+general;get-started;Get started
+general;all;All
+general;license-regarding;Regarding your license
+general;license-renew;I’d like to renew my license.
+general;license-extend;No, don’t extend my license
+general;license-contact;Thank you for your request, our team will contact you soon.
+general;license-negative-message;Without renewing your license, you won't be able to get updated data
+general;licence-email;Technical Support: support@doktar.com
+general;license-phone;Telephone: +90 (850) 433 6477
+general;license-ok;I got it
+errors;login_not_valid;Please fill the required areas.
+errors;device-data-not-available;Unable to access device data.
+errors;user-already-exist;The phone number is already in use. Please check the information you entered and try again.
+errors;phone-number-or-password-is-incorrect;Phone number or password is incorrect
+errors;record-not-found;Record Not Found
+errors;stage-date-must-be-less-than-next-stage-date;Stage date must be less than next stage date.
+errors;record-already-exist;This stage is already added, please check the stage name.
+errors;http_request_unexpected_error;We encountered an unexpected problem
+errors;auth-error;
+errors;email-already-used;e-Mail already used.
+errors;stage-date-must-be-greater-than-previous-stage-date;Stage date must be greater than previous stage date.
+errors;invalid-operation;It is not possible to trade in the demo field.
+errors;timeline-crop-cannot-be-null-or-empty;Crop is required field
+errors;timeline-id-cannot-be-null;Id is required field
+errors;timeline-stage-cannot-be-null-or-empty;Stage is required field
+errors;timeline-tempfarmattid-cannot-be-null-or-empty;Farm is required field
+errors;flagsave-id-cannot-be-null;Id is required field
+errors;flagsave-description-cannot-be-null-or-empty;Description is required field
+errors;flagsave-title-cannot-be-null-or-empty;Title is required field
+errors;flagsave-tempfarmattid-cannot-be-null-or-empty;Farm is required field
+errors;flagsave-flag-date-cannot-be-null-or-empty;Flag Date is required field
+errors;flagsave-lat-cannot-be-null-or-empty;Location is required field
+errors;flagsave-lon-cannot-be-null-or-empty;Location is required field
+errors;email-is-already-in-use;Email is already in use
+errors;phonenumber-format-is-not-suitable;Phonenumber format is not suitable
+errors;farm-geo-type-cannot-be-null-or-empty;Draw is required field
+errors;farm-geo-type-must-be-Polygon-or-Point;Draw format is not suitable
+errors;sowing-date-cannot-be-null-or-empty;Sowing date is required field
+errors;sowing-date-less-than-harvest-date;The sowing date cannot be greater than the harvest date.
+errors;harvest-date-cannot-be-null-or-empty;Harvest date is required field
+errors;harvest-date-greater-than-sowing-date;Harvest date cannot be less than sowing date
+errors;crop-cannot-be-null-or-empty;Crop is required field
+errors;lat-cannot-be-null;locaiton is required field
+errors;lon-cannot-be-null;Location is required field
+errors;tempfarmattid-cannot-be-null-or-empty;Farm is required field
+errors;flag-id-cannot-be-null-or-empty;Flag Id is required field
+errors;description-cannot-be-null-or-empty;Description is required field
+errors;incorrect-or-expired-password;Verification code you entered is incorrect.
+errors;old-password-is-incorrect;The old password you entered is incorrect.
+errors;password-has-not-expired;The last code sent is still active
+auth;login;Login
+auth;register;Register
+auth;email_or_phone;Email or Phone Number
+auth;password;Password
+auth;login_succeed;Wellcome, again.
+auth;login_not_valid;Please fill the required areas.
+auth;enter_valid_email_or_phone;Please enter a valid email address or phone number.
+auth;phone_number;Phone Number
+auth;namesurname;Name Surname
+auth;namesurname_validation_error;Must contain at least 2 words
+auth;phone_validation_error;Enter a valid phone number
+auth;email;Email
+auth;email_validation_error;Enter a valid email address
+auth;password_validation_error;Password must be min 6 character
+auth;passwordCheck;Enter Password Again
+auth;password_mismatch_error;Passwords are not the same
+auth;register_agreements_item;I have read and agree to the <a class='btn_userAgreement'>User Agreement</a>, <a class='btn_kvkk'>Privacy Policy</a>, <a class='btn_iys'>MMS</a>
+auth;register_btn;Register
+auth;welcome-header;Welcome to IoTrack
+auth;welcome-content;Control your fields’ health by tracking your PestTrap and Filiz devices
+auth;lets-start;Let’s start!
+auth;forgot-your-pass;Forgot your password?
+auth;forget_password_title;Forgot Password
+auth;forget_pass_desc;To reset your password, a code will be sent to your number.
+auth;request_code_btn;Send Code
+auth;enter_code_title;Enter the code
+auth;enter_code_desc;Enter the code that was sent to the number ending with “{{number}}”
+auth;confirm_btn;Confirm
+auth;send_again;Send another code
+auth;new_password;New Password
+auth;new_password_desc;Enter a new password
+auth;match_password;Passwords do not match
+auth;password_again;Password Again
+auth;success_change_password;Your password has been successfuly changed
+auth;gotcha;Got it!
+auth;kvkk;kvkk_en.html
+auth;Kullanim_Kosullari_Kullanici_Sozlesmesi;Kullanim_Kosullari_Kullanici_Sozlesmesi_en.html
+auth;CommercialElectronicMessage;CommercialElectronicMessage_en.html
+auth;user_agreement;User Agreement
+auth;commercial_electronic_message_agreement;Commercial Electronic Message Consent and Disclosures
+auth;terms-of-use;IoTrack Terms of Use and User Agreement
+auth;kvkk_header;Privacy Policy Terms
+auth;aggrement_userpolicy_title;User Aggrement
+auth;want-register;You haven't registered.Do you want to register?
+auth;Privacy_Policy;privacy-policy_en.html
+auth;privacy_agreement;Privacy Agreement
+auth;social-register-info;Fill in the missing information below to continue.
+auth;provide-social-type;This information was obtained from {{ socialType }}
+auth;password_max_length_err;Password must contain a maximum of 14 characters
+auth;welcome-desc;A single app for all your devices
+auth;welcome-sub-desc;Monitor. Track. Analyze
+auth;how-does-it-work;How does IoTrack work?
+on-boarding;header-1;Track pests easily & spray on time
+on-boarding;description-1;View PestTrap captures via your phone, get informed instantly about rises in the pest population.
+on-boarding;header-2;Visualize the evolution of pest population in your field.
+on-boarding;description-2;Analyze key metrics, view data over time, and summarize with graphs. Get insights for the whole season.
+on-boarding;header-3;Monitor Soil and Weather Data Remotely and Take Action on Time
+on-boarding;description-3;Filiz monitors the soil and weather conditions in your field and provides recommendations to optimize your irrigation, disease risk management, frost risk management and spraying decisions
+on-boarding;header-4;View the Processed, and Interpreted Data
+on-boarding;description-4;Check the graphs for all the measurements of the field, and examine all the records.
+device-field-add;add-device;Add your device
+device-field-add;select-device;Select your device
+device-field-add;scan-code;Scan the QR code
+device-field-add;look-code;Look behind the device to find the QR code
+device-field-add;scan;Scan
+device-field-add;enter-id-manually;Enter ID manually
+device-field-add;qr-code;Place the QR code inside the rectangle above
+device-field-add;device-id;Device ID
+device-field-add;save;Save
+device-field-add;add-your-field;Add your field
+device-field-add;add-field-desc;Draw or search your field in this step
+device-field-add;add-field;Add field
+device-field-add;draw-field;Draw the field
+device-field-add;parcel;Parcel Inquiry
+device-field-add;saved-field-list;Select from Saved fields list
+device-field-add;search;Search
+device-field-add;select-field;Select field
+device-field-add;pick-current-location;Pick my current location
+device-field-add;add-field-information;Add field information
+device-field-add;info-step;Enter your field information in this step
+device-field-add;all-set;You’re all set!
+device-field-add;save-success;Your device and field have successfully been added
+device-field-add;start-pesttrapp;Start using PestTrap
+device-field-add;pair-another-device;Pair another device
+device-field-add;start-filiz;Start using Filiz
+device-field-add;enter;Enter
+device-field-add;welcome;Welcome!
+device-field-add;demo-text;You can use the demo version of both devices to explore the app
+device-field-add;try-pest-demo;Try PestTrap
+device-field-add;try-filiz-demo;Try Filiz
+device-field-add;pair-device;Have a device? Pair it now.
+device-field-add;confirm-id;Confirm ID
+device-field-add;8-char;Device ID must be 8 characters!
+device-field-add;error-draw-header;The dots are not properly connected
+device-field-add;back-drawing;Back to drawing
+device-field-add;confirm-text;To confirm your drawing, connect the dots
+device-field-add;confirm;Confirm
+device-field-add;device-not-exist;The device is not registered to the system. Please try again with another device number.
+add_field;find_field_title;Find Your Field
+add_field;draw_farm;Draw the field
+add_field;parcel_inquiry;Parcel Inquiry
+add_field;saved_list;Select from Saved fields list
+add_field;fly_my_current_location;Pick my current location
+add_field;farm_save_title;Field Registration
+add_field;farm_save_desc;Your field is average {{area}}. You can edit this information later.
+add_field;farm_save_desc2;
+add_field;farm_name_label;Field name
+add_field;farm_name_required;Field name is required!
+add_field;crop_name_label;Crop name
+add_field;crop_required;Product selection is required!
+add_field;crop_variety_name_label;Crop variety
+add_field;sowing_date_Label;Sowing Date
+add_field;harvest_date_Label;Harvest Date
+add_field;save_farm;Save the field
+add_field;succes_modal_title_guest;Nice Field!
+add_field;success_modal_title;Nice Field!
+add_field;succes_modal_desc_guest;We saved your field! You need to create an account to continue and view info specific to your field.
+add_field;success_desc_title;We have successfully saved your field!
+add_field;register_btn;Register
+add_field;continue_as_guest;Continue as Guest
+add_field;see_packages;View Plans
+add_field;back_to_map;Back to Map
+add_field;zoom_in_to_first_point;Zoom in on your field to add the first point.
+add_field;add_other_clock_wise;Add the other points in clockwise or counterclockwise order. Do not intersect polygon boundaries.
+add_field;touche_first_to_complete;Tap the first point to complete the drawing.
+add_field;tap_drawing_to_update_or_reshape;You can activate editing by touching the drawing. Your field is now ready to save.
+add_field;confirm_field_draw;Confirm Field
+add_field;parsel_inquiry;Parcel Inquiry
+add_field;city_lbl;City
+add_field;district_lbl;District
+add_field;village_lbl;Village
+add_field;block_lbl;Block
+add_field;parcel_lbl;Parcel
+add_field;submit_request_btn;Submit Request
+add_field;click_to_update_farm_borders;You can click to update borders.
+add_field;sowing_date;Sowing Date
+add_field;irrigation_name_label;Irrigation method
+add_field;soil_name_label;Soil Type
+add_field;farming_method;Farming Method
+add_field;farming_method_required;Required field
+add_field;update_farm;Update Farm
+add_field;undefined;Undefined
+add_field;parcel_not_found_title;Parcel not Found
+add_field;parcel_not_found;Parcel not Found
+add_field;inquiry_again_btn;Try to Inquiry Again
+add_field;parcel_not_found_desc;Parcel does not found.
+add_field;empty-header;No field data could be found
+add_field;empty-content;Please check other data.
+add_field;not-equal-date;Sowing date must be different from harvest date.
+add_field;change-dates;Harvest Date must be greater than Sowing Date.
+add_field;find_location;Use the search bar above as you have not granted location permission
+add_field;lines_crossed_alert_desc;The edges of the field you draw intersect.
+add_field;complete_drawing;Complete the Drawing
+add_field;farm-save-desc;Your field is approx. {{area}}
+add_field;farm-save-title-v2;Add field information
+add_field;crop-information-title;Crop Information
+months;january;January
+months;february;February
+months;march;March
+months;april;April
+months;may;May
+months;june;June
+months;july;July
+months;august;August
+months;september;September
+months;october;October
+months;november;November
+months;december;December
+crops;Marul;Lettuce
+crops;Roka;Arugula
+crops;Tere;Cress
+crops;Karpuz;Watermelon
+crops;Kavun;Melon
+crops;Fasülye;Bean
+crops;Elma;Apple
+crops;Kiraz;Cherry
+crops;Portakal;Orange
+crops;Zeytin;Olive
+crops;Ceviz;Walnut
+crops;Patlıcan;Eggplant
+crops;Buğday;Wheat
+crops;Fiğ;Vetch
+crops;Çilek;Strawberry
+crops;Burçak;Bitter Vetch
+crops;Bağ Kurutmalık;Raisin
+crops;Ahududu;Raspberry
+crops;Altıntop (Greyfurt);Grapefruit
+crops;Anason;Anise
+crops;Antepfıstığı;Pistachios
+crops;Armut;Pear
+crops;Arpa;Barley
+crops;Aspir;Safflower
+crops;Ayçiçeği;Sunflower
+crops;Ayva;Quince
+crops;Badem;Almond
+crops;Bakla;Broad Bean
+crops;Bamya;Okra
+crops;Bezelye;Pea
+crops;Börülce;Cowpea
+crops;Brokkoli;Broccoli
+crops;Çavdar;Rye
+crops;Çeltik;Paddy
+crops;Dereotu;Dill
+crops;Dut;Mulberry
+crops;Enginar;Artichoke
+crops;Erik;Plum
+crops;Filotu;Giant Miscanthus
+crops;Haşhaş;Poppy
+crops;Havuç;Carrot
+crops;İğde;Silverberry
+crops;İncir;Fig
+crops;Ispanak;Spinach
+crops;Kabak;Zucchini
+crops;Kanola;Canola
+crops;Karnabahar;Cauliflower
+crops;Kayısı;Apricot
+crops;Kayısı Kurutmalık;Dried Apricot
+crops;Keçi Boynuzu;Carob
+crops;Kekik;Thyme
+crops;Kereviz;Celery
+crops;Kestane;Chestnut
+crops;Kimyon;Cumin
+crops;Kivi;Kiwi
+crops;Korunga;Sainfoin
+crops;Sarımsak Kuru;Garlic
+crops;Soğan Kuru;Onion
+crops;Lahana;Cabbage
+crops;Limon;Lemon
+crops;Mandarin;Tangerines
+crops;Maydanoz;Parsley
+crops;Mercimek;Lentil
+crops;Mürdümük;Grass Pea
+crops;Muşmula;Medlar
+crops;Nane;Mint
+crops;Nar;Pomegranate
+crops;Nohut;Chickpea
+crops;Pamuk;Cotton
+crops;Pazı;Chard
+crops;Pırasa;Leek
+crops;Şeftali;Peach
+crops;Şekerpancarı;Sugar Beet
+crops;Semizotu;Purslane
+crops;Sorgum;Sorghum
+crops;Soya Fasülyesi;Soybean
+crops;Susam;Sesame
+crops;Sarımsak Taze;Green Garlic
+crops;Soğan Taze;Green Onion
+crops;Trabzon Hurması;Persimmon
+crops;Tritikale;Triticale
+crops;Tütün;Tobacco
+crops;Üçgül;White Clover
+crops;Vişne;Cherry
+crops;Yenidünya;Loquat
+crops;Yerfıstığı;Groundnut
+crops;Yonca;Alfalfa
+crops;Yulaf;Oat
+crops;Biber;Pepper
+crops;Hıyar;Cucumber
+crops;Patates;Potato
+crops;Bağ Şaraplık;Grape Wine
+crops;Bağ Sofralık;Grape
+crops;Fındık;Hazelnut
+crops;Nektarin;Nectarines
+crops;Çay;Tea
+crops;Mısır Silajlık;Corn Silage
+crops;Barbunya;Kidney Bean
+crops;Böğürtlen;Blackberry
+crops;Acur;Armenian Cucumber
+crops;Mısır Danelik;Corn
+crops;Kuru soğan tohum;Onion Seed
+crops;Soğan Arpacık;Potato Onions
+crops;Şalgam;Turnip
+crops;Şalgam Yemlik;Forage Turnip
+crops;Fasülye Kuru;Haricot Bean
+crops;Brüksel Lahanası;Brussels Sprouts
+crops;Fasülye (2. Ürün);Beans (2.Planting)
+crops;Muz;Banana
+crops;Turp;Radish
+crops;Çörek Otu;Black Cumin
+crops;Şerbetçiotu;Hop
+crops;Domates Sanayilik;Tomato Paste
+crops;Domates Sofralık;Tomato
+crops;Domates;Tomato
+crops;Tatlı Mısır;Sweet Corn
+crops;Tohumluk Mısır;Corn Seed
+crops;Kinoa;Quinoa
+crops;Pancar Kırmızı;Red Beet
+crops;Mısır Cin (Patlak);Popcorn
+crops;Çim;Grass
+crops;Turşuluk Hıyar;Gherkin
+crops;Patates Sanayilik;Potato Industry
+crops;Seçiniz;Choose
+crops;Ödemiş Mısır;Odemis Corn
+crops;farm-not-sowing;No Field Planted
+crops;Adaçayı;Sage
+crops;Ağaç Kavunu;Citron
+crops;Ahlat;Wild Pear
+crops;Ak Üçgül;White Clover
+crops;Alabalık;Trout
+crops;Alıç;Hawthorn
+crops;Altınçilek;Golden Strawberry
+crops;Anaç manda;Broodstock
+crops;Arapsaçı;Tangle
+crops;Arı;Bee
+crops;Armut Japon;Pear Japanese
+crops;Arpa (Yeşil Ot);Barley (Green Grass)
+crops;Avokado;Avocado
+crops;Ayçiçeği Yağlık;Sunflower Oil
+crops;Bakla (Kuru);Broad Bean
+crops;Bakla Yemlik;Broad Bean Manger
+crops;Bektaşi Üzümü;Gooseberry
+crops;Bergamot;Bergamot
+crops;Bezelye Yemlik;Pea Manger
+crops;Biberiye;Rosemary
+crops;Bol Salat;Plenty of Salat
+crops;Bombus Arısı;Bumblebee
+crops;Buğday (Yeşil Ot);Wheat (Green Grass)
+crops;Buzağı;Calf
+crops;Caramba Mix;Caramba Mix
+crops;Cennet Elması;Heavenly Apple
+crops;Ceviz Pikan;Walnut Pikan
+crops;Cibes;Cibez
+crops;Civanperçemi;Yarrow
+crops;Çam Fıstığı;Pine Nuts
+crops;Çavdar (Yeşil Ot);Rye (Green Grass)
+crops;Çayır Üçgülü;Meadow Clover
+crops;Çemen;Grass
+crops;Çiğ Süt;Raw Milk
+crops;Çok Yıllık Çim (Lolium Perenne);Perennial Grass
+crops;Çöven;Çöven
+crops;Dağ Çayı;Mountain Tea
+crops;Damızlık Koç;Breeding Sheep
+crops;Damızlık Teke;Bredding Goat
+crops;Damızlık Tosun;Breeding Beef
+crops;Defne;daphne
+crops;Domuz Ayrığı;Swine
+crops;Dulavrat Otu;Burdock
+crops;Düve;Heifer
+crops;Ebegümeci;Hibiscus
+crops;Ejder Meyvesi;Dragon Fruit
+crops;Ekinezya;Echinacea
+crops;Endivyen;The Endivy
+crops;Erik Japon;Plum Japanese
+crops;Erik Papaz;Plum Pastor
+crops;Fasülye Maş;Bean Mash
+crops;Fesleğen;Basil
+crops;Fiğ Macar;Vetch Hungarian
+crops;Frambuaz;Raspberry
+crops;Frenk Maydanozu;Chervil
+crops;Frenk Üzümü;Red Currant
+crops;Fresia;Freesia
+crops;Gazal Boynuzu;Gazal Horn
+crops;Gelincik;Poppy
+crops;Gerbera;Gerbera
+crops;Gilaburu;Gilaburu
+crops;Glayöl;Gladiolus
+crops;Gojiberry;Gojiberry
+crops;Gül;Rose
+crops;Hindiba;Chicory
+crops;Hint Keneviri;Cannabis
+crops;Hünnap;Jujube
+crops;Hüsnüyusuf;Sweet William
+crops;Isırgan Otu;Dead Nettle
+crops;İnek;Cow
+crops;İris;Iris
+crops;İskenderiye Üçgülü;Alexandria Triangle
+crops;İtalyan Çimi;Italian Grass
+crops;Kabak Bal;Pumpkin Honey
+crops;Kadife;Velvet
+crops;Kamışsı Yumak;Cane Yarn
+crops;Kamkat;Kumquat
+crops;Kantaron;Centaury
+crops;Karabuğday;Buckwheat
+crops;Karanfil;Clove
+crops;Karayemiş;Black Eaten
+crops;Kartopu;Snowball
+crops;Kasımpatı;Chrysanthemum
+crops;Keçi;Goat
+crops;Kenevir Lif;Hemp Fiber
+crops;Keten Lif;Linen Fiber
+crops;Keten Otu;Flax Grass
+crops;Kılçıksız Brom;Fishbone Bromine
+crops;Kızılcık;Cranberry
+crops;Kişniş;Coriander
+crops;Kohlraby;Kohlrabi
+crops;Kop Salat;Kop Salat
+crops;Koyun;Sheep
+crops;Krizantem;Chrysanthemum
+crops;Kudret Narı;Pomegranate Pomegranate
+crops;Kuş Üzümü;Currants
+crops;Kuşburnu;Rosehip
+crops;Kuşkonmaz;Asparagus
+crops;Kuzukulağı;Sorrel
+crops;Labada;Labada
+crops;Lale;Tulip
+crops;Latin Çiçeği;Latin Flower
+crops;Lavanta;Lavender
+crops;Likarpa;Likarp
+crops;Lilyum;Lilies
+crops;Limon Grass;Lemongrass
+crops;Lisanthus;Lisianthus
+crops;Lolorosso;Lolorosso
+crops;Lolorosso (Kırmızı);Lolorosso (Red)
+crops;Lolorosso (Yeşil);Lolorosso (Green)
+crops;Malak;Málaga
+crops;Mango;Mango
+crops;Mantar;Mushroom
+crops;Melissa;Melissa
+crops;Menekşe;Violet
+crops;Mercanköşk;Marjoram
+crops;Mısır Silajlık (Kuru);Corn Silage (Dry)
+crops;Mısır Silajlık (Sulu);Corn Silage
+crops;Midye;Mussel
+crops;Mizuna;Mizuna
+crops;Nadas;Fallow
+crops;Nergiz;Calendula
+crops;Nerine;Nerina
+crops;Orkide;Orchid
+crops;Ortanca;Hydrangea
+crops;Otlak Ayrığı;Pasture Separation
+crops;Pancar;Beet
+crops;Papatya;Daisy
+crops;Pepino;Pepino
+crops;Petunya;Petunia
+crops;Polorosso;Polorosso
+crops;Radika;Radika
+crops;Ranunculus (Düğün Çiçeği);Ranunculus (Buttercup)
+crops;Rezene;Fennel
+crops;Safran;Saffron
+crops;Salep;Sahlep
+crops;Sardunya;Sardinia
+crops;Sığır;Beef
+crops;Sıkleman Çiçeği;Flower
+crops;Solidago (Altın Başak);Solidago (Goldenrod)
+crops;Sorgum-Sudanotu Melezi;Sorghum-Sudanese Hybrid
+crops;Statice;Statica
+crops;Stevia;Stevie
+crops;Sudan Otu;Sudanese Weed
+crops;Sumak;Sumac
+crops;Sümbül;Hyacinth
+crops;Şebboy;Gillyflower
+crops;Şevketibostan;Blessed Thistle
+crops;Şiniklav;Siniklav
+crops;Tangelo;Tangelo
+crops;Tangor;Tango
+crops;Tarçın;Cinnamon
+crops;Tarhun;Tarragon
+crops;Tatsoi;The Tatson
+crops;Tohum (Kutu);Seed (Box)
+crops;Tritikale (Yeşil Ot);Triticale (Green Herb)
+crops;Turp Beyaz;Radish White
+crops;Turunç;Bitter Orange
+crops;Üvez;Rowanberry
+crops;Yaban Mersini;Blueberries
+crops;Yaban Orkidesi;Wild Orchid
+crops;Yapay Çayır-Mera;Artificial Meadow-Pasture
+crops;Yaş Koza;Age Cocoon
+crops;Yem Baklası;Feed Pods
+crops;Yeni Türler;New Species
+crops;Yerelması;Topinambour
+crops;Yonca (Kuru);Alfalfa (Dry)
+crops;Yonca (Sulu);Alfalfa (Juicy)
+crops;Yulaf (Yeşil Ot);Oats (Green Herb)
+crops;Zahter;Zahter
+crops;Zencefil;Ginger
+crops;Zerdali;Zerdali
+crops;Zeytinyağı;Olive Oil
+crops;Sazan;Carp
+crops;Oğlak;Goat
+crops;Koç;Ram
+crops;Teke;Billy
+crops;Tosun;Bullock
+crops;Fasülye (Kuru);Dry Beans
+crops;Lolorosso (Kırmızı Yaprak);Lolorosso (Red-leaved)
+crops;Lolorosso (Yeşil Yaprak);Lolorosso (Green-leaved)
+crops;Pancar Yemlik;Fodder Beet
+crops;Soğan Kuru (arpacık);Onion (Shallot)
+crops;Stevia (Şeker otu);Stevia
+crops;İpekböceği;Silkworm
+crops;Manda;Mandate
+crops;Ayçiçeği Çerezlik;Sunflower (Appetizers)
+crops;Bakla Kuru;Fève sèche
+crops;Boğadikeni;Eryngium
+crops;Kadife Çiçeği;Tagetes
+crops;Yabani Havuç;Daucus
+crops;N/A;N/A
+crops;Alabaş;Alabaster grass
+crops;Çayır otu;Fescue
+crops;Hardal otu;Leaf mustard
+crops;Karabaş otu;Cassidony
+crops;Karakafes otu;Comfrey
+crops;Sakız ağacı;Mastic
+crops;Menengiç;Terebinth
+crops;Şevketi bostan;Blessed thistle
+crops;Mahlep;Mahaleb
+crops;Ihlamur;Linden
+crops;Turp otu;Wild radish
+crops;Darı;Panicum
+crops;Kapari;Cappers
+crops;Hurma;Date Palm
+crops;Şeker kamışı;Molasses
+crops;Frenk Soğanı;Chive
+crops;Aronya;Chokeberry
+crops;Hatmi;Epicalyces
+crops;Kuzu kulağı;Stachys byzantina
+crops;Kahve;Coffee
+crops;Keten;Flax
+crops;Palmiye;Palm
+crops;Guava;Guava
+crops;Hindistan cevizi;Coconut
+crops;Goji Berry;Goji Berry
+crops;Yer Elması;Yam
+weather;%RH;%RH
+weather;°C;°C
+weather;Cloudy;Cloudy
+weather;date;Date
+weather;Drizzle;Drizzle
+weather;Drizzle (probably);Drizzle (probable)
+weather;empty-content;Please check other information.
+weather;empty-header;Weather information not available.
+weather;Hail;Hail
+weather;Heavy Rain;Heavy Rain
+weather;heavy-snow;Heavy Snow
+weather;humidity;Humidity
+weather;legend;Legend
+weather;Light Rain;Light Rain
+weather;light-snow;Light Snow
+weather;medium-snow;Medium Snow
+weather;Partly cloudy;Partly Cloudy
+weather;precipitation;Precipitation
+weather;Rain;Rain
+weather;report;Precip
+weather;status;Weather
+weather;Storm;Storm
+weather;sunrise;Sunrise
+weather;sunset;Sunset
+weather;temperature;Temperature
+weather;time;Time
+weather;Very cloudly;Very Cloudy
+weather;wind;Wind
+weather;no-data-header;No forecast available. Better late than never!
+weather;no-data-text;Please check again in an hour.
+weather;filter-no-data-header;Hmm.. we can't find any results
+weather;filter-no-data-text;Don't worry! Why not try searching for other keywords?
+wind-direction;0;Directions
+wind-direction;1;South
+wind-direction;2;South West
+wind-direction;3;West
+wind-direction;4;North West
+wind-direction;5;North
+wind-direction;6;North East
+wind-direction;7;East
+wind-direction;8;South East
+wind-direction;1_s;S
+wind-direction;2_s;SW
+wind-direction;3_s;W
+wind-direction;4_s;NW
+wind-direction;5_s;N
+wind-direction;6_s;NE
+wind-direction;7_s;E
+wind-direction;8_s;SE
+unit;mm;mm
+unit;km/h;km/h
+unit;m/s;m/s
+unit;inch;inch
+unit;F;°F
+unit;mph;mph
+weather-status;Açık Hava;Clear Sky
+weather-status;Alçak Sis;Low-Lying Fog
+weather-status;Bulutlu/Arada Güneşli;Cloudy/Occasionally Sunny
+weather-status;Güneşli;Sunny
+weather-status;Güneşli/Dağınık Bulutlu;Sunny/Partly Cloudy
+weather-status;Güneşli/Sağnak Yağmurlu;Sunny/Heavy Rain
+weather-status;Hafif Yağmur;Light Rain
+weather-status;Kar Sağnağı;Heavy Snow
+weather-status;Kar Yağışlı;Light Snow
+weather-status;Karla Karışık Yağmurlu;Rain and Snow
+weather-status;Parçalı Bulutlu;Partly Cloudy
+weather-status;Sağnak Yağmurlu;Heavy Rain
+weather-status;Yıldırımlı;Thunderous
+pesttrapp-home;welcome-back;Welcome back
+pesttrapp-home;welcome-back-desc;Follow daily updates on your PestTrap
+pesttrapp-home;battery;Battery
+pesttrapp-home;network;Network
+pesttrapp-home;status;Status
+pesttrapp-home;on;On
+pesttrapp-home;off;Off
+pesttrapp-home;view-map;View on the map
+pesttrapp-home;summary;Overview
+pesttrapp-home;very good;Very Good
+pesttrapp-home;good;Good
+pesttrapp-home;low;Low
+pesttrapp-home;very low;Very Low
+pesttrapp-home;no-signal;No Signal
+pesttrapp-home;;-
+pesttrapp-home;pest-count-by-type;Pest Count by type
+pesttrapp-home;last-catch-by-type;Last Catch by type
+pesttrapp-home;sticky-trap;Sticky Trap
+pesttrapp-home;last-change-date;Last change date
+pesttrapp-home;change;Change
+pesttrapp-home;pheromone-lure;Pheromone Lure
+pesttrapp-home;expiration-date;Expiration date
+pesttrapp-home;pest-type;Pest Type
+pesttrapp-home;spraying;Spraying
+pesttrapp-home;last-spraying-date;Last spraying date
+pesttrapp-home;timeline;Timeline
+pesttrapp-home;edit;Edit
+pesttrapp-home;view;View
+pesttrapp-home;pesttrapp-home;-
+pesttrapp-home;empty-header;No device data could be found
+pesttrapp-home;empty-content;
+pesttrapp-home;last-one-day-catch;Last 1 Day Catch
+pesttrapp-home;last-three-day-catch;Last 3 Day Catch
+pesttrapp-home;last-five-day-catch;Last 5 Day Catch
+pesttrapp-home;sticky-full-text;Trap is full, it may affect the pest count accuracy.
+pesttrapp-home;sticky-almost-full-text;Trap is almost full, it may affect the pest count accuracy.
+pesttrapp-home;preparing-image;Preparing the image...
+pesttrapp-home;preparing-image-text;This process may take a moment. Thank you for your understanding.
+spraying;empty-header;No spraying data could be found
+spraying;empty-content;If you’ve have sprayed recently, please add by tapping on the button below
+spraying;enter-date;Enter a date
+spraying;view-suitable-hours;View Suitable Hours
+spraying;spraying-date;Spraying Date
+spraying;chemical-type;Chemical type
+spraying;add-spraying;Add spraying date
+spraying;add-desc;Date of your latest spraying
+spraying;chemical-choice;Chemical type of your choice
+spraying;add;Add
+spraying;save-success;Your spraying data has successfully been added
+spraying;;
+spraying;choose-chemical-type;Please choose chemical type.
+spraying;no-data;Add a date
+sticky-trap;sticky-trap-changes;Sticky Trap Changes
+sticky-trap;enter-date;Enter a date
+sticky-trap;change-date;Change date
+sticky-trap;not-available;Not available
+sticky-trap;add;Add
+sticky-trap;empty-header;No trap changes have been done
+sticky-trap;empty-content;Add a trap change by tapping on the button below
+sticky-trap;empty;Empty
+sticky-trap;moderately-full;Moderately full
+sticky-trap;half-full;Half full
+sticky-trap;moderately-empty;Moderately empty
+sticky-trap;too-full;Too full
+sticky-trap;full;Full
+sticky-trap;update-trap;Update Trap
+sticky-trap;add-desc;Add the date of your trap renewal
+sticky-trap;date-entered;Date entered
+sticky-trap;save;Save
+sticky-trap;change-trap;Change trap date
+sticky-trap;no-data;Add a date
+sticky-trap;save-success;Your sticky trap have successfully been added
+sticky-trap;almost-full;Almost full
+pheromone-lure;details;Last added Pheromone lure details
+pheromone-lure;empty-header;No lure changes have been logged
+pheromone-lure;empty-content;Enter a stage by tapping on the button below
+pheromone-lure;add-lure;Add a lure
+pheromone-lure;expiration-date;Expiration date
+pheromone-lure;opened-on;Opened on
+pheromone-lure;pheromone-status;Pheromone Status
+pheromone-lure;add-pheromone;Add the info for your pheromone trap
+pheromone-lure;change-pheromone;Change the info for your pheromone trap
+pheromone-lure;placement-date;Placement Date
+pheromone-lure;pheromone-type;Pheromone Type
+pheromone-lure;pheromone-expiry-date;Pheromone Expiry Date
+pheromone-lure;add;Add
+pheromone-lure;bug-list;Pheromone Type List
+pheromone-lure;save-success;Your pheromone lure data and insect type have successfully been added
+pheromone-lure;date-warning;Expiry Date must be greater than Change Date. Please change your change date or expiry date.
+pheromone-lure;choose-insect-type;Please choose insect type.
+pheromone-lure;no-data;Add a date
+pheromone-lure;date-err;The expiry date of the pheromone lure must be greater than the placement date.
+pheromone-lure;change-pheromone-lure;Pheromone insertion date
+farm-list;trap;<img src='../../../../../assets/images/feromon-device.png'> Paired to PestTrap
+farm-list;filiz;<img src='../../../../../assets/images/filiz-device.png'> Paired to Filiz
+farm-list;filiz-pro;<img src='../../../../../assets/images/filiz-device.png'> Paired to Filiz Pro
+farm-list;view;View
+farm-list;add-field;Add a Field
+farm-list;search-farm;Search Field
+farm-list;trap-title;PestTrap
+farm-list;filiz-title;Filiz
+farm-list;filiz-pro-title;Filiz-Pro
+farm-list;filiz-mini-title;Filiz Mini
+farm-list;imported-from;Imported from {{ importFarm }}
+constants;Insecticide;Insecticide
+constants;Herbicide;Herbicide
+constants;Fungicide;Fungicide
+constants;Organik;Organic
+constants;Konvansiyonel;Conventional
+constants;Sulamıyorum;Non-Irrigated Arable Land
+constants;Yağmurlama;Sprinkler Irrigation
+constants;Salma;Surface Irrigation
+constants;Damla;Drip Irrigation
+constants;Center Pivot;Center Pivot
+constants;İnce Kumlu-Tınlı;Fine Sandy Loamy
+constants;Killi-Tınlı;Clay Loam
+constants;Kumlu-Killi-Tınlı;Sandy Clay Loam
+constants;Kumlu-Tınlı;Sandy Loam
+constants;Siltli-Killi-Tınlı;Silty Clay Loam
+constants;Siltli-Killi;Silty Clay
+constants;Siltli-Tınlı;Silt Loam
+constants;Tınlı-Kumlu;Loamy Sand
+constants;Tınlı;Loam
+constants;Killi;Clay
+constants;Kumlu;Sand
+constants;Milli;Silt
+constants;Asidik;Acidic
+constants;Bazik;Alkaline
+constants;Nötr;Neutral
+constants;Milli-Killi;Silty Clay
+constants;Default;Default
+constants;Mantar;Fungus
+constants;Böcek;Insect
+constants;Besin Eksikliği;Nutrient Deficiency
+constants;Su;Water
+constants;Azot;Nitrogen
+constants;Altyapı;Structure
+constants;Virüs;Virus
+constants;Fosfor Eksikliği;Phosphorus Deficiency
+constants;Potasyum Eksikliği;Potassium Deficiency
+constants;Çinko Eksikliği;Zinc Deficiency
+constants;Magnezyum Eksikliği;Magnesium Deficiency
+constants;Kalsiyum Eksikliği;Calcium Deficiency
+constants;Demir Eksikliği;Iron Deficiency
+constants;Bakır Eksikliği;Copper Deficiency
+constants;Obruk;Pothole
+constants;Dolu;Hail
+constants;Damlatıcı Tıkanması;Dripper Blockage
+constants;Su Öbeği;Water Heap
+constants;Ekilmemiş Alan;Uncultivated Area
+constants;Farklı Çeşit;Different Variety
+constants;Gelişme;Vegetative Growth
+constants;Meyve bağlama;Fruit Setting
+constants;Diğer;Other
+constants;Hastalık;Disease
+constants;Sulama;Irrigation
+constants;Yabancı Ot;Weed
+constants;Zararlı;Pest
+constants;null;N/A
+constants;Göllendirme;Ponding
+constants;Liquid Fertilizers;Liquid Fertilizers
+constants;Organomineral Fertilizers;Organomineral Fertilizers
+constants;Plant Growth Regulators;Plant Growth Regulators
+constants;Solid Fertilizers;Solid Fertilizers
+constants;5. yaprak;5. Leaf
+constants;Filizlenme;Germination
+constants;Başaklanma;Earing
+constants;9. yaprak;9. Leaf
+constants;Koçan oluşumu;Corncob Development
+constants;Püsküllenme;Tassel Emergence
+constants;3. gerçek yaprak;3. Leaf
+constants;Koza oluşumu;Cotton Ball Development
+constants;Kozanın açılması;Cotton Ball Opening
+constants;Çimlenme;Germination
+constants;3. yaprak;3. Leaf
+constants;Tomurcuklanma;Budding
+constants;Kapsülün oluşumu;Capsule Development
+constants;Kapsül çizimi;Capsule Cut
+constants;4. yaprak;4. Leaf
+constants;Fide boyu 50 cm;Steam Reaches 50 cm
+constants;Yaprak kırma;Harvest
+constants;Çiçek tablası oluşumu;Flowerbud Development
+constants;Dallanma;Ramificatin
+constants;Yaprak oluşumu;Leaf Formation
+constants;2. yaprak çifti;2. Leaf
+constants;Tabla oluşumu;Receptacle Development
+constants;6-10 Yaprak;6-10 Leaf
+constants;Şaşırtma (fideleme);Seedling
+constants;Gelişme dönemi;Vegetative Growth
+constants;7. yaprak oluşumu;7. Leaf
+constants;Yeniden büyüme;Regrowth
+constants;Sürgün gelişme dönemi;Shoot Growth
+constants;Çiçeklenme öncesi;Pre-Flowering
+constants;Koza gelişim dönemi;Fruit Development
+constants;İlk mahsul;First Crop
+constants;Çiçek tomurcuğu oluşumu;Bud Development
+constants;Son mahsul;Last Crop
+constants;Olgunlaşma;Ripening
+constants;Erkek çiçeklerin görülmesi;Bud Break
+constants;Dişi çiçeklerin görülmesi;Female Flower Development
+constants;Yapraklanma;Leafing
+constants;Büyüme;Germination
+constants;Yaprakların büyümesi;Leaf Growing
+constants;Yaprakların çoğalması;Leaf Multiplication
+constants;Çiçek sapı oluşumu;Flower Stem
+constants;Yeni yaprakların görülmesi;New Leaf Presence
+constants;Çiçek salkımı oluşumu;Raceme Development
+constants;Çiçek gruplarının görülmesi;Raceme Development
+constants;Salkım oluşumu;Raceme Development
+constants;Tomurcukların kabarması;Bud Break
+constants;Tomurcukların açılması;Bud Opening
+constants;Çiçeklenme;Flowering
+constants;Meyve oluşumu;Fruit Development
+constants;Ekim Dikim;Planting
+constants;Uyanma;Awakening
+constants;N/A;N/A
+constants;Ekim ;Planting
+constants;Hasat;Harvest
+constants;Sürme;Bud Break
+constants;Ekim;Planting
+constants;1. kesim;First Cut
+constants;6. yaprak;6 Leaf
+constants;Yüzeyde en fazla yapraklanma;Maximum Leaf
+constants;Çiçeklenme dönemi;Flowering
+constants;Çimlenme-Filizlenme;Germination
+constants;Daneler irileşmeye başlayınca aralar tam kapanmadan;Berry Enlargement
+constants;Daneler tatlanma döneminde;Berry Sugar Level Increase
+constants;Gövdenin görünmesi;Stem Developement
+constants;İlk gerçek yaprak çifti;First Leaf
+constants;Kardeşlenme;Tillering
+constants;Kol atma;Branching
+constants;Sapa kalkma;Bolting
+constants;Son kesim;Last Cut
+constants;Sürgünler 25-30 cm boya ulaşınca;Shoots 25-30 cm
+constants;Tane tutum ve irileşme dönemi;Setting
+constants;Yaprak solgunluğu;Leaves Withering
+constants;Yeşil olgunluk;Green Capsule
+constants;Yeşil-sarı olgunluk;Brown Capsule
+constants;Yumru oluşumu;Tuberization
+constants;Yumruların şişmesi;Tuberization
+constants;Harvest date;Harvest
+constants;Sowing date;Sowing
+constants;mm;mm
+constants;ton/ha;ton/ha
+constants;Traktör/Ekipman Hasarı;Tractor/Equipment Damage
+constants;Hatalı İlaçlama;Incorrect Spraying
+constants;Taşlı Alan;Stony Area
+constants;Bakteri;Bacteria
+constants;Su Eksikliği;Lack of Water
+constants;Su Birikimi;Water Accumulation
+constants;Geniş Yapraklı;Broadleaf
+constants;Dar Yapraklı;Narrowleaf
+constants;Hayvan;Animalfta
+constants;Yavru oluşumu;Offspring Formation
+constants;Belirtilmemiş;Unknown
+constants;Sabit Debi;Bubbler Irrigation
+timeline;add-stage;Add a stage
+timeline;empty-header;No stages have been added yet
+timeline;empty-content;Notice any changes on the field? Log it by tapping on the button below.
+timeline;add-stage-date;Add stage date
+timeline;add-desc;Date of your stage
+timeline;stage-type;Stage type
+timeline;save-success;Your timeline data has successfully been added
+timeline;stage-name;Stage name
+timeline;stage-date;Start date
+timeline;current-stage;Current Stage
+timeline;started-on;Started on
+timeline;add-dates;Add dates
+timeline;phenelogical-stages;Phenological Stages
+timeline;not-specified;Not specified
+timeline;not-selected;Not selected
+timeline;stage-info;Stages are displayed chronologically
+timeline;start-date;Estimated start date
+timeline;date-for;Date for {{value}}
+timeline;start-add-date;Start adding dates
+timeline;stage-dates;Stage dates
+timeline;dates-required;*Plantation and harvest dates are required.
+timeline;of;of
+timeline;finish-later;Finish later
+timeline;done;Done
+timeline;quit-save-title;Are you sure you want to go back without saving?
+timeline;quit-save-desc;Quitting will revert any unsaved changes
+timeline;back-to-stages;Back to stages
+timeline;discard-changes;Discard changes
+timeline;save-changes-title;Input your own stages
+timeline;save-changes-desc;Phenological Stages feature allows you to add your own stages and easily view the progress of your crops
+timeline;dates;Dates
+timeline;save-success-desc;You can later update the estimated dates in the <b>Phenological Stages</b> page.
+timeline;date-error;You cannot enter a date equal to or less than the date of the previous stage. Please select a different date.
+timeline;must-be-between-sowing-and-harvest;The date you choose must be between sowing and harvesting.
+detail;15;15 cm
+detail;45;45 cm
+detail;details;Details
+detail;field-information;Field Information
+detail;area;Area
+detail;name;Name
+detail;id;ID
+detail;location;Location
+detail;crop-information;Crop Information
+detail;variety;Variety
+detail;planted-on;Planted On
+detail;harvest-by;Harvest by
+detail;until-days;Days until Harvest
+detail;days;days
+detail;last-update;Last update
+detail;cpu-temperature;CPU Temperature
+detail;licence-expiration-date;Licence Expiration Date
+detail;battery-status;Battery Status
+detail;sensor-id;Sensor ID
+detail;m2m;M2M #
+detail;MSISDN;MSISDN
+detail;IMEI;IMEI
+detail;IMSI;IMSI
+detail;ICCID;ICCID
+detail;delete-field;Delete field
+detail;device-information;Device Information
+detail;farm-delete;Are you sure want to delete this field?
+detail;farm-nearest;nearest
+detail;sensor-selection;Sensor Selection
+detail;sensor-selection-title;Soil Moisture Sensor Selection
+detail;sensor-select-value;Please select the sensor for notification
+detail;sensor-type;Sensor type
+detail;45-sensor;45 cm Soil Moisture Sensor
+detail;15-sensor;15 cm Soil Moisture Sensor
+detail;sensor;Sensor
+detail;sensor_notification_title;Sensor notifications updated
+detail;sensor_notification_desc;Sensor at {{value}}cm level has been selected as default, your irrigation notifications will be sent accordingly.
+detail;sensor_notification_err;There was an error while retrieving information
+detail;remove-field;Remove Field
+detail;shared-field-delete;Are you sure you want to delete your field{{ value }} ?
+detail;delete-shared-field-desc;Deleting this field will cause it to be removed from other platforms,if any.
+detail;cancel-delete;No, I don't want to delete it
+detail;delete-success;Your field named {{value}} has been deleted.
+detail;delete-imported-field-desc;The field will only be removed on this platform, you will continue to see it on {{ value }}
+detail;imported-field-delete;Are you sure you want to remove your field {{ value }} ?
+detail;deleted-field-title;Your field has been deleted.</br>
+detail;deleted-field-desc;It's removed from other platforms too.
+detail;removed-field-title;Your field has been removed.</br>
+detail;removed-field-desc;It will continue to appear on {{value}}.
+detail;not-selected;Not selected
+detail;irrigation-method;Irrigation Method
+detail;soil-type;Soil Type
+detail;farming-method;Farming Method
+detail;dashboard-dates;Dashboard Dates
+detail;chilling-hours-date;Chilling Hours Date
+detail;select-date;Select Dates
+detail;harvested;Harvested
+detail;save-changes-desc;Your changes has been saved. If something's not right, you can always change these dates in the <b>Field Details</b>
+soil-sensor;30;30 cm
+soil-sensor;SC1;45 cm
+soil-sensor;SC3;15 cm
+soil-sensor;SC3-sensor;15 cm Soil Moisture Sensor
+soil-sensor;SC1-sensor;45 cm Soil Moisture Sensor
+soil-sensor;sensor-notification-desc-SC1;Sensor at 45 cm level has been selected as default, your irrigation notifications will be sent accordingly.
+soil-sensor;sensor-notification-desc-SC3;Sensor at 15 cm level has been selected as default, your irrigation notifications will be sent accordingly.
+soil-sensor;45 cm-sensor;45 cm Soil Moisture Sensor
+soil-sensor;15 cm-sensor;15 cm Soil Moisture Sensor
+soil-sensor;30 cm-sensor;30 cm Soil Moisture Sensor
+soil-sensor;60 cm-sensor;60 cm Soil Moisture Sensor
+soil-sensor;sensor-notification-desc-15 cm;Sensor at 15 cm level has been selected as default, your irrigation notifications will be sent accordingly.
+soil-sensor;sensor-notification-desc-45 cm;Sensor at 45 cm level has been selected as default, your irrigation notifications will be sent accordingly.
+soil-sensor;SC5-sensor;30 cm Soil Moisture Sensor
+soil-sensor;SC7-sensor;60 cm Soil Moisture Sensor
+soil-sensor;SC5;30 cm
+soil-sensor;SC7;60 cm
+soil-sensor;sensor-notification-desc-30 cm;Sensor at 30 cm level has been selected as default, your irrigation notifications will be sent accordingly.
+soil-sensor;sensor-notification-desc-60 cm;Sensor at 60 cm level has been selected as default, your irrigation notifications will be sent accordingly.
+bug;SalkimGuvesi;European Grapevine Moth
+bug;ElmaIcKurdu;Codling Moth
+bug;ZeytinGuvesi;Olive Moth
+bug;DomatesGuvesi;Tomato Leafminer
+bug;CicekTripsi;Western Flower Thrips
+bug;PatatesGuvesi;Potato Tuber Moth
+bug;PamukPembeKurt;Pink Bollworm
+bug;PamukYaprakKurdu;African Cotton Leafworm
+bug;YesilKurt;Cotton Bollworm
+bug;HarnupGuvesi;Locust Bean Moth
+bug;DoguMeyveGuvesi;Oriental Fruit Moth
+bug;ElmaYaprakBukeni;European Leaf Roller
+bug;AkdenizMeyveSinegi;Mediterranean Fruit Fly
+bug;ZeytinSinegi;Olive Fruit Fly
+bug;KizilAgacKurdu;Carpenter Moth
+bug;LimonCicekGuvesi;Citrus Flower Moth
+bug;KirazSinegi;Cherry Fruit Fly
+bug;SeftaliGuvesi;Peach Twig Borer
+bug;ErikIcKurdu;Red Plum Maggot
+bug;SariAgacKurdu;Leopard Moth
+bug;ElmaGovdeKurdu;Red-Belted Clearwing
+bug;BaklaZinni;Apple Blossom Beetle
+bug;KirmiziPalmiyeBocegi;Red Palm Weevil
+bug;KuruMeyveGuvesi;Indian-Meal Moth
+bug;DegirmenGuvesi;Mediterranean Flour Moth
+bug;TatliKurt;Cigarette Beetle
+bug;ArpaGuvesi;Angoumois Grain Moth
+bug;BugdayBiti;Grain Weevil
+bug;ElbiseGuvesi;Clothes Moth
+bug;GoknarBuyukKabukBocegi;Fir Engraver Beetle
+bug;YatayDisliGoknarKabukBocegi;Bark Beetle
+bug;AkdenizCamKabukBocegi;Mediterranean Pine Beetle
+bug;OnikiDisliCamKabukBocegi;Six-Toothed Bark Beetle
+bug;CamSurgunBukucusu;European Pine Shoot Moth
+bug;CamKeseBocegi;Pine Processionary Moth
+bug;CamKulturHortumluBocegi;Small Banded Pine Weevil
+bug;KucukOrmanBahcivani;Lesser Pine Shoot Beetle
+bug;BuyukOrmanBahcivani;Common Pine Shoot Beetle
+bug;AkdenizOrmanBahcivani;Mediterranean Pine Shoot Beetle
+bug;AltiDisliCamKabukBocegi;Engraver Beetle
+bug;KucukGoknarKabukBocegi;Small Fir Bark Beetle
+bug;FindikDalkiran;Pear Bright Beetle
+bug;SekizDisliCamKabukBocegi;Eight-Toothed Bark Beetle
+bug;AltinGozluBocek;Common Green Lacewing
+bug;TutunTripsi;Tobacco Thrips
+bug;TutunBeyazsinegi;Tobacco Whitefly
+bug;SeraBeyazsinegi;Greenhouse Whitefly
+bug;TuruncgilBeyazsinegi;Citrus whitefly
+bug;Ari;Bee
+bug;SoganSinegi;Onion Fly
+bug;TutunBeyazSinegi;Tobacco Whitefly
+bug;SeraBeyazSinegi;Greenhouse Whitefly
+bug;TuruncgilBeyazSinegi;Citrus Whitefly
+bug;Cisim;Other
+bug;MisirKocanKurdu;Mediterranean Corn Stalk Borer
+bug;Sinek;Fly
+bug;Feromon;Pheromone
+bug;Tanimsiz;Unidentified
+bug;AkdikenYaprakbukeni;Brown Oak Tortrix
+bug;AntepfistigiDalGuvesi;Pistachio Twig Borer
+bug;AtKestanesiYaprakOyucusu;Horsechestnut Leafminer
+bug;AvrupaCamGuvesi;Pine-Tree Lappet
+bug;AvrupaTahilGuvesi;European Grain Moth
+bug;AycicegiGuvesi;Sunflower Moth
+bug;Ayvaİckurdu;Quince Moth
+bug;BatiMisirKokkurdu;Western Corn Rootworm
+bug;BenekliSapKurdu;Spotted Stem Borer
+bug;BezelyeKapsulKurdu;Pea Moth
+bug;Bozkurt;Turnip Moth
+bug;CaliantenliCamYaprakarisi;Common Pine Sawfly
+bug;CamGuvesi;Pine Beauty Moth
+bug;CamTekebocegi;Pine Sawyer Beetle
+bug;DepoBocekleri;Skin Beetles
+bug;DikenliKurt;Egyptian Stem Borer
+bug;DisliBocek;Merchant Grain Beetle
+bug;DouglasGoknarıKabukbocegi;Douglas-Fir Beetle
+bug;DutKabukluBiti;Mulberry Scale
+bug;EkmekBocegi;Drugstore Beetle
+bug;ElmaGuvesi;Apple-fruit Moth
+bug;ElmaYaprakGaleriGuvesi;Spotted Tentiform Leafminer
+bug;GamaliKelebek;Silver Y
+bug;GoknarSurgunKelebegi;European Fir Budworm
+bug;GüzTirtili;Fall Armyworm
+bug;İncirKurdu;Almond Moth
+bug;Kabukbocegi;Black Hills Beetle
+bug;KahverengiKokarcaBocegi;Brown Marmorated Stink Bug
+bug;KanadiNoktaliSirkeSinegi;Spotted Wing Drosophila
+bug;KaraagacYaprakbukeni;Variegated Golden Tortrix
+bug;KavakKelebegi;Poplar Clearwing Moth
+bug;KirazCicegiGuvesi;Cherry Fruit Moth
+bug;KirmaBiti;Confused Flour Beetle
+bug;KirmiziTomurcukTirtili;Bud Moth
+bug;Kirtirtili;Gypsy Moth
+bug;KisGuvesi;Winter Moth
+bug;KucukMeyveGuvesi;Appleseed Moth
+bug;KusuzumuOyucusu;Currant Clearwing
+bug;LahanaGuvesi;Cabbage Moth
+bug;LahanaYaprakguvesi;Diamondback Moth
+bug;MeyveYaprakbukucusu;Rhomboid Tortrix
+bug;MisirdaPamukKurdu;Cotton Leafworm
+bug;MisirKurdu;European Maize Borer
+bug;MisirYuvarlakKurdu;Corn Earworm
+bug;PamukCizgiliYaprakKurdu;Beet Armyworm
+bug;PirasaGuvesi;Leek Moth
+bug;PirincBiti;Rice Weevil
+bug;PolifagYaprakBukucusu;Grey Red-Barred Twist
+bug;PortakalGuvesi;Honeydew Moth
+bug;RecineKelebegi;Pine Tip Moth
+bug;SedirKabukBocegi;-
+bug;TestereliBocek;Saw-Toothed Grain Beetle
+bug;TomurcukTirtili;Apple Brown Tortrix
+bug;TutunGuvesi;Cacao Moth
+bug;TutunTomurcukKurdu;Oriental Tobacco Budworm
+bug;Unakari;Flour Mite
+bug;UnBiti;Red Flour Beetle
+bug;Yaprakyapistiran;Summer Fruit Tortrix
+bug;YaprakYesiltirtili;Bud Moth
+bug;YesilTirtil;Clouded Drab
+bug;Asyagergedanbocegi;Asiatic Rhinoceros Beetle
+bug;null;Null
+bug;no-type;Add type
+bug;Palmiye;Palm
+bug;Cekirge;Grasshopper
+bug;SigaraBocegi;Cigarette beetle
+bug;AgustosBocegi;Cicada
+bug;KahverengiKokarca;Brown Skunk
+bug;Dalkiran;Dalkiran
+history;0;S
+history;1;D
+history;7;W
+history;30;M
+history;header;History
+history;analysis;Analysis
+history;export;Export
+history;share;Share
+history;filter;Filter
+history;Daily-Hourly;D
+history;Weekly;W
+history;Monthly;M
+history;Season;S
+history;Yearly;Y
+history;Half-Yearly;6M
+history;all-pest-count;All pest count
+history;trap-change;Trap change
+history;pest-with-count;{{number}} pests
+history;photos;Photos
+history;average;Average
+history;total;Total
+history;pheromone-change;PHEROMONE CHANGE
+history;sticky-trap-change;STICKY TRAP CHANGE
+history;changes-with-count;{{number}} changes
+history;day;Day
+history;month;Month
+history;year;Year
+history;reset-all;Reset all
+history;include-pest;Select Pest Types
+history;10-pests-capture;More than 10 pest captures in the photo
+history;apply;Apply
+history;pests;Pests
+history;select;Select
+history;selected-item;{{ number }} item selected
+history;between-these-days;Select Dates
+history;to;to
+history;pest-types;Pest Types
+history;reset;Reset
+history;pest-count;Pest Count
+history;delta;Delta
+history;cumulative;Cumulative
+history;show;Show
+history;ChangeFeromon;PHEROMONE CHANGE
+history;ChangeTrap;STICKY TRAP CHANGE
+history;IsHighPestDate;HIGH PEST DATE
+history;date;Date
+history;empty-chart;No data to display at this time.
+ Please check back later
+history;Daily;D
+history;table;Table
+history;graph;Graph
+history;analysis-date;Analysis Date
+history;AirHumidity;Air Humidity
+history;SoilSurfaceHumidity;Soil Surface Humidity
+history;UnderSoilHumidity;Soil Mois. 15 cm
+history;UnderSoilHumidity1;Soil Mois. 45 cm
+history;AirTemperature;Air Temperature
+history;SoilSurfaceTemperature;Soil Surface Temp.
+history;UnderSoilTemperature;Soil Temperature
+history;WDS;Wind Speed
+history;RC;Precipitation
+history;LI;Light Intensity
+history;ChillingHours;Chilling Hours
+history;time;Time
+history;table-no-data;There seems to be no data available for the selected date. Try another date to view the relevant data.
+history;remove;Remove
+history;success-photo-save;Your photos have been successfully saved to your gallery.
+history;failed-photo-save;An error occurred while saving your photos.
+history;album-name;PestTrap
+history;ETc;ETc
+history;LWD;Leaf Wetness Duration
+history;SC1;45 cm
+history;SC3;15 cm
+history;SC5;30 cm
+history;SC7;60 cm
+history;select-pest-type;Select a pest type
+history;showing-graphs;Showing graphs for
+history;empty-data-text;There is no data to show yet.
+history;lastValue;Cumulative Value
+history;LW;Leaf Wetness
+history;ChillingStd;Chilling Hours
+history;Evapotransporation;Evapotranspiration
+history;AirHumidityTop;Air Humidity
+history;AirTemperatureTop;Air Temperature
+history;AirHumidityBottom;Soil Surface Humidity
+history;AirTemperatureBottom;Soil Surface Temperature
+history;SoilHumidity;Soil Humidity
+history;SoilTemperature;Soil Temperature
+history;device-off;Device Off
+history;one-element-array;There is not enough data to produce a graph.
+history;PestCount;Pest Count
+filiz-home;welcome-back;Welcome back
+filiz-home;latest-updates;Latest updates
+filiz-home;wind-speed;Wind Speed
+filiz-home;precipitation;Precipitation
+filiz-home;light-intensity;Light Intensity
+filiz-home;air-humiditiy;Air Humiditiy
+filiz-home;temperature;Air Temperature
+filiz-home;soil-humidity;Soil Moisture
+filiz-home;soil-temperature;Soil Temperature
+filiz-home;no;No Risk
+filiz-home;low;Low Risk
+filiz-home;high;High Risk
+filiz-home;fungus-risk;Fungus Risk
+filiz-home;soil-moisture;Soil Moisture
+filiz-home;gdd;GDD
+filiz-home;chilling-hours;Chilling Hours
+filiz-home;windstorm-risk;Windstorm Risk
+filiz-home;rainfall-risk;Rainfall Risk
+filiz-home;frost-risk;Frost Risk
+filiz-home;inadequate;Inadequate
+filiz-home;adequate;Adequate
+filiz-home;std;Std.
+filiz-home;utah;UTAH
+filiz-home;nc;NC
+filiz-home;sensor-history;Sensor History
+filiz-home;AirHumidity;Air Humidity is a humidity value measured by Filiz’s top air sensor
+filiz-home;view-sensor-history;View sensor history
+filiz-home;select-graph-type;Select graph type:
+filiz-home;start-date;Start date
+filiz-home;end-date;End date
+filiz-home;results;Results
+filiz-home;select-period;Select period:
+filiz-home;daily;Daily
+filiz-home;hourly;Hourly
+filiz-home;expand;Expand
+filiz-home;min;Min
+filiz-home;avg;Avg
+filiz-home;max;Max
+filiz-home;AirTemperature;Air Temperature
+filiz-home;very_dry;<10
+filiz-home;over_moisture;>50
+filiz-home;soil-humiditiy-45;Soil Mois. 45cm
+filiz-home;soil-humiditiy-15;Soil Mois. 15cm
+filiz-home;soil-surface-humidity;Soil Surface Humidity
+filiz-home;soil-surface-temp;Soil Surface Temperature
+filiz-home;daily-etc;Daily ETc
+filiz-home;mm-day;mm/day
+filiz-home;hours;hours
+filiz-home;leaf-wetness-duration;Leaf Wetness Duration
+filiz-home;dew-point;Dew Point
+filiz-home;soil-Humidity;Soil Mois.-
+filiz-home;soil-humiditiy-30;Soil Mois. 30cm
+filiz-home;soil-humiditiy-60;Soil Mois. 60cm
+filiz-home;etc;ETc
+filiz-home;ten-days;10 Days
+filiz-home;mm;mm
+filiz-home;new-measurement-title;More from the fields!
+filiz-home;new-measurement-desc;You can now track Dew Point,Evapotranspiration and Leaf Wetness updates from the Update Cards.
+filiz-home;new-measurement-button;Nice, got it
+filiz-home;set-date;Set dates
+filiz-home;choose-date;Choose default dates
+filiz-home;chilling-set-date-title;Pick the dates that Chilling Hours will be based upon. This can be changed later in <b>Field Details</b>
+filiz-home;gdd-set-date-title;Pick the Plantation and harvest dates of your field. This can be changed later in <b>Field Details</b>
+filiz-home;set-and-done;All set and done!
+filiz-home;chilling-desc;Chilling hours start date has been set to <b>{{value}}</b>. If something's not right, you can always change this date in the <b>Field Details</b>
+filiz-home;gdd-desc;Plantation date has been set to <b>{{startDate}}</b> and Harvest date has been estimated to <b>{{endDate}}</b>. If something's not right, you can always change this date in the <b>Field Details</b>
+filiz-home;got-it;Got it!
+filiz-home;plantation-date;Plantation Date
+filiz-home;estimated-date;Estimated Harvest Date
+filiz-home;loading;Loading
+filiz-home;set-date-soil-moisture;Add information
+filiz-home;out of season;Out of season
+filiz-home;unavailable;Model unavailable
+filiz-home;under-protection;Under Protection
+filiz-home;chilling-not-available-date;Chilling Hours is not available for this date.
+recommendation;0;season
+recommendation;7;week
+recommendation;30;month
+recommendation;header;Recommendation
+recommendation;disease;Disease
+recommendation;irrigation;Irrigation
+recommendation;legend;Legend
+recommendation;risk-status;Risk Status
+recommendation;view-as-graph;View as a graph
+recommendation;view-as-table;View as a table
+recommendation;days-with-disease;Days with disease
+recommendation;high-risk;High risk represent.Please spray as soon as possible
+recommendation;spraying;Spraying
+recommendation;view-past-sprayings;View past sprayings
+recommendation;view-sprayings;View sprayings
+recommendation;view-irrigations;View irrigations
+recommendation;view-suitable-hours;View Suitable Hours
+recommendation;add-spraying;Add Spraying
+recommendation;HR;HR
+recommendation;LR;LR
+recommendation;NR;NR
+recommendation;NA;N/A
+recommendation;SP;SP
+recommendation;available-not-active;Model for this disease is available, but not active due to the timing of the season.
+recommendation;read-about;Read about
+recommendation;empty-title;How do our disease models work?
+recommendation;empty-desc;For the disease models to work, please add present phenelogical stages.
+recommendation;add-stages;Add stages
+recommendation;prepare-model;Preparing the model...
+recommendation;irrigation-title;Important for irrigation models
+recommendation;irrigation-desc;Add soil type to see the Irrigation Status
+recommendation;add-info;Add information
+recommendation;empty-desc-for-disease;For the disease models to work, please add {{list}}
+recommendation;add-new-stages;Add new stages
+recommendation;harvest-done;Harvest is done...
+recommendation;harvest-done-desc;Your harvest date has passed, add new planting and harvest dates to continue working with the model.
+profile;profile;Profile
+profile;profile-desc;Change your profile information
+profile;notification;Notifications
+profile;notification-desc;Adjust your notification settings
+profile;devices;My devices
+profile;devices-desc;View and configure your devices
+profile;settings;Settings
+profile;settings-desc;Configure your application settings
+profile;pest-chemical;Pest & Chemical Library
+profile;pest-chemical-desc;About types of pest and chemicals
+profile;faq;FAQ
+profile;faq-desc;Find answers to your questions
+profile;support;Support
+profile;ask-agronomist;Ask an Agronomist
+profile;error-log;Error Log
+profile;error-log-desc;Submit your error logs for inspection
+profile;version;Version {{version}}
+profile;add-device;Add a device
+profile;search-text;Type an Id or name...
+profile;save;Save
+profile;change-profile-photo;Change Profile Photo
+profile;name-surname;Name Surname
+profile;e-mail;E-mail
+profile;age;Age
+profile;city;City
+profile;birth-date;Birth Date
+profile;change-password;Change Password
+profile;language;Language
+profile;unit;Unit
+profile;general;General
+profile;agreements;Agreements
+profile;user-agreement;Terms and Conditions and User Agreement
+profile;personal-data;Privacy Policy
+profile;electronic-message;Commercial Electronic Message Consent and Disclosures
+profile;units;Units
+profile;new_password_desc;Your password must be at least 6 and maximum 14 characters
+profile;old-password;Old Password
+profile;all-notifications;All Notifications
+profile;ask-expert;Ask the Expert
+profile;training-request;Training Request
+profile;device-list;Device List
+profile;user-manual;User Manual
+profile;log-out;Log Out
+profile;logout_alert_btn_confirm;Log out
+profile;logout_alert_btn_cancel;Cancel
+profile;logout_alert_title;Are you sure want to log out?
+profile;questions;Questions
+profile;you;You
+profile;sent;Sent
+profile;open;OPEN
+profile;closed;CLOSED
+profile;new-message;New message
+profile;ask-the-expert;Ask the expert
+profile;question-empty-header;You haven’t asked any questions yet
+profile;question-empty-content;Tap the button below to ask your first questions.
+profile;ask;Ask
+profile;request-training-session;Request a training session
+profile;device-id;Device ID(s)
+profile;send-request;Send request
+profile;pick-time-capture;Pick a time to capture
+profile;active;Active in
+profile;passive;Passive in
+profile;device-empty-header;You haven’t added any devices
+profile;device-empty-content;Tap the button on the top right to add a device
+profile;type-id-name;Type an ID or name...
+profile;pest-species;Pest Species
+profile;last-pheromone-lure-change;Last pheromone lure change
+profile;network-priority;Network Priority
+profile;trap;PestTrap
+profile;filiz;Filiz
+profile;filiz-pro;Filiz Pro
+profile;id;ID:
+profile;last-sticky-change;Last sticky trap change
+profile;license-expiration-date;Licence Expiration Date
+profile;resolution;Resolution
+profile;trap-photo-capture-time;Trap Photo Capture Time
+profile;empty-header;You haven’t added any devices
+profile;empty-content;Tap the button on the top right to add a device
+profile;close-question;Close question
+profile;concluded;This chat has been concluded
+profile;weather;Weather
+profile;agricultural;Agricultural
+profile;other;Other
+profile;success-save;Profile information saved successfully
+profile;delete-account;Delete My Account
+profile;delete-account-alert;You will lose the data in your account. Do you still want to delete your account?
+profile;filiz-mini;Filiz Mini
+profile;user-manual-desc;View device and app user manual
+unit_pref;area_lbl;Area
+unit_pref;temperature_lbl;Temperature
+unit_pref;speed_lbl;Speed
+unit_pref;rainfall_lbl;Rainfall
+unit_pref;kmh;km/h
+unit_pref;km/h;km/h
+unit_pref;mph;mil/h
+unit_pref;m/s;m/h
+unit_pref;da;da
+unit_pref;ha;ha
+unit_pref;ac;ac
+unit_pref;dekar;da
+unit_pref;hektar;ha
+unit_pref;acre;ac
+unit_pref;C;°C
+unit_pref;F;°F
+unit_pref;mm;mm
+unit_pref;inch;inch
+unit_pref;%RH;%RH
+unit_pref;h;h
+unit_pref;W/m2;W/m2
+unit_pref;%;%
+unit_pref;#;#
+disease-legend;unknown;Disease model available but not active.
+disease-legend;no-risk;No fungus risk has been detected.
+disease-legend;low-risk;Preliminary conditions achieved no spraying required.
+disease-legend;high-risk;Disease condition met, spray immediately.
+disease-legend;spraying;You have sprayed, crop under protection.
+spraying-hours;header;Spraying Hours
+spraying-hours;today;Today
+spraying-hours;tomorrow;Tomorrow
+spraying-hours;description;For spraying, choose the times that coincide with the green parts.
+spraying-hours;suitable;Suitable
+spraying-hours;risky;Risky
+spraying-hours;done;Done
+spraying-hours;disease-model-not;DISEASE MODEL NOT AVAILABLE FOR THIS CROP
+spraying-hours;add-timeline-warning;For the disease models to work, please add present phenological stage information on your home page.
+spraying-hours;take-me-home;Take me home
+map-filter;sudden-increase-fields;Sudden Pest Increase Fields
+map-filter;frost-risk-status-fields;Frost Risk Status Fields
+map-filter;disease-risk-fields;Disease Risk Status Fields
+map-filter;harvest-season-fields;Harvest Season Fields
+map-filter;scouting-notes-fields;Scouting Notes Fields
+map-filter;trap-fields;PestTrap Fields
+map-filter;filiz-fields;Filiz/Filiz Pro Fields
+map-filter;how_to_add_note_lbl;To add a note to your field, press and hold a point within the field borders for 2 seconds.
+farm-map;add-field;Add a Field
+farm-map;add-new-field;Add a new field
+farm-map;import-field;Import a Field
+farm-map;no-filter-array;You do not have a field that matches the relevant filter rule.
+tools;irrigation_lbl;Irrigation
+tools;scouting_notes_lbl;Scouting Notes
+tools;spraying_hours_lbl;Spraying Hours
+tools;yield_calculation_lbl;Yield Calculation
+tools;got_it_btn;OK, got it!
+tools;yield_calc_coming_soon;You will soon be able to use Yield Calculation.
+tools;coming_soon;Soon!
+tools;description;Description
+tools;notes_opts_edit;Edit
+tools;notes_opts_share;Share
+tools;notes_opts_delete;Delete
+tools;notes_delete_current_note;Yes, delete it
+tools;notes_dont_want_to_delete;No, don't delete it
+tools;notes_delete_note_title;Are you sure you want to delete this note?
+tools;how_to_add_note_lbl;To add a note to your field, press and hold a point within the field borders for 2 seconds.
+tools;scouting_notes_title;Scouting Notes
+tools;scouting_notes_desc;With Scouting Notes, mark and take notes on potential problems that catch your eye on the Health Map. You can view the point you marked in the map applications and easily reach the problem area. You can share this note with others along with the location you marked. You can also easily add a note while in the field.
+tools;irrigation_title;Irrigation
+tools;irrigation_desc;After adding your info in our irrigation program, you can create an irrigation schedule and see how soil water content changes over time.
+tools;spraying_hours_title;Spraying Hours
+tools;spraying_hours_desc;Spraying Hours shows the available times to spray your field.
+tools;yield_calculation_title;Yield Calculation
+tools;yield_calculation_desc;Stay tuned for Yield Calculation!
+add_note;notes_cancel;Cancel
+add_note;notes_next;Next
+add_note;notes_marker_must_be_in_farm;You must add the note within the field borders
+add_note;add_note_title;Add Note
+add_note;add_note_subtitle;Details
+add_note;title_placeholder;Title
+add_note;date_placeholder;
+add_note;problem_lbl;Problem
+add_note;tags_lbl;Tags
+add_note;description_placeholder;Description*
+add_note;info_lbl_1;Mark the location of your note on the field
+add_note;save_and_send_to_engineer;Ask the expert
+add_note;submit;Submit
+add_note;error_on_note_save;An error occurred while saving the note.
+add_note;error_on_photos_save;Note saved. However, an error occurred while uploading your photos.
+add_note;check_add_ons_btn;View Plans
+add_note;go_back_btn;Go Back
+add_note;buy_add_on_to_add_more;To add multiple notes, you must upgrade your plan.
+add_note;cannot_add_note_alert_title;Add Note
+add_note;info_lbl_update_1;You can change the location of the note if needed.
+add_note;no-data;You can add a new note within your field borders by pressing and holding for 2 seconds.
+add_note;got-it;Got it!
+add_note;delete-photo;Are you sure want to delete this photo?
+error-log;submit-error-log;Submit an error log
+error-log;device-id;Device ID*
+error-log;upload-media;Upload media
+error-log;upload-media-desc;You may include voice recordings, video or image files
+error-log;description;Description
+error-log;select-error-type;Select an error type
+error-log;application;Application
+error-log;device;Device
+error-log;save-send;Save & Send
+error-log;add-more;Add more
+error-log;empty-header;No errors have been submitted yet
+error-log;empty-content;Submit an error by tapping on the button below
+error-log;add-error;Add an error
+error-log;error-log;Error Log
+error-log;error;Error #
+error-log;add;Add New
+error-log;required-desc;Please enter description
+error-log;required-device;Please select device
+error-log;failed;There was a problem during registration. Please check the information and try again.
+media-options;camera;Camera or Gallery
+media-options;video;Video record
+media-options;audio;Voice record
+media-options;select-media-type;Choose a media type
+filiz-history;pick-variables;Pick variables to show
+filiz-history;select-graph-show;Select graph to show
+filiz-history;clear-all;Clear all
+filiz-history;select-all;Select All
+filiz-history;temperature;Temperature
+filiz-history;air-temperature-top;Air Temperature
+filiz-history;air-temperature-bottom;Soil Surface Temperature
+filiz-history;soil-temperature;Soil Temperature
+filiz-history;humidity;Humidity
+filiz-history;air-humidity-top;Air Humidity
+filiz-history;air-humidity-bottom;Soil Surface Humidity
+filiz-history;soil-humidity;Soil Mois. 45cm
+filiz-history;gdd-unit;GDD Unit
+filiz-history;chilling-hours;Chilling Hours
+filiz-history;frost;Frost
+filiz-history;derivative;Derivative
+filiz-history;clear;Clear
+filiz-history;light-intensity;Light Intensity
+filiz-history;precipitation;Precip
+filiz-history;wind-speed;Wind Speed
+filiz-history;show;Show
+filiz-history;pro-variables;Pro variables
+filiz-history;avg;AVG
+filiz-history;min;MIN
+filiz-history;max;MAX
+filiz-history;soil-humidity-top;Soil Mois. 15cm
+filiz-history;null;N/A
+filiz-history;sum;SUM
+filiz-history;nc;NC
+filiz-history;std;STD
+filiz-history;utah;UTAH
+filiz-history;total;Total
+filiz-history;temp-top;Air Temperature
+filiz-history;temp-bottom;Soil Surface Temperature
+filiz-history;humidity-top;Air Humidity
+filiz-history;humidity-bottom;Soil Surface Humidity
+filiz-history;soil-moisture-15;Soil Mois. 15cm
+filiz-history;soil-moisture-45;Soil Mois. 45cm
+filiz-history;evapotransporation;Evapotranspiration
+filiz-history;leaf-wetness;Leaf Wetness
+filiz-history;dew-point;Dew Point
+filiz-history;soil-moisture-30;Soil Mois. 30cm
+filiz-history;soil-moisture-60;Soil Mois. 60cm
+filiz-history;etc;ETc
+filiz-history;AirTemperatureTop;Air Temperature
+filiz-history;SoilTemperature;Soil Temperature
+filiz-history;AirTemperatureBottom;Soil Surface Temperature
+filiz-history;AirHumidityTop;Air Humidity
+filiz-history;AirHumidityBottom;Soil Surface Humidity
+filiz-history;RC;Precipitation
+filiz-history;WDS;Wind Speed
+filiz-history;LI;Light Intensity
+filiz-history;Evapotransporation;Evapotranspiration
+filiz-history;LW;Leaf Wetness
+filiz-history;DewPoint;Dew Point
+filiz-history;ChillingHours;Chilling Hours
+filiz-history;GddUnit;GDD
+filiz-history;SoilHumidity;Soil Humidity
+filiz-history;AirTemperatureTopMax;Air Temperature Max
+filiz-history;AirTemperatureTopAvg;Air Temperature Avg
+filiz-history;AirTemperatureTopMin;Air Temperature Min
+filiz-history;SoilTemperatureMax;Soil Temperature Max
+filiz-history;SoilTemperatureAvg;Soil Temperature Avg
+filiz-history;SoilTemperatureMin;Soil Temperature Min
+filiz-history;AirTemperatureBottomMax;Soil Surface Temperature Max
+filiz-history;AirTemperatureBottomAvg;Soil Surface Temperature Avg
+filiz-history;AirTemperatureBottomMin;Soil Surface Temperature Min
+filiz-history;AirHumidityTopMax;Air Humidity Max
+filiz-history;AirHumidityTopAvg;Air Humidity Avg
+filiz-history;AirHumidityTopMin;Air Humidity Min
+filiz-history;AirHumidityBottomMax;Soil Surface Humidity Max
+filiz-history;AirHumidityBottomAvg;Soil Surface Humidity Avg
+filiz-history;AirHumidityBottomMin;Soil Surface Humidity Min
+filiz-history;RCMax;Precipitation Max
+filiz-history;RCAvg;Precipitation Avg
+filiz-history;RCMin;Precipitation Min
+filiz-history;WDSMax;Wind Speed Max
+filiz-history;WDSAvg;Wind Speed Avg
+filiz-history;WDSMin;Wind Speed Min
+filiz-history;LIMax;Light Intensity Max
+filiz-history;LIAvg;Light Intensity Avg
+filiz-history;LIMin;Light Intensity Min
+filiz-history;EvapotransporationMax;Evapotranspiration Max
+filiz-history;EvapotransporationAvg;Evapotranspiration Avg
+filiz-history;EvapotransporationMin;Evapotranspiration Min
+filiz-history;LWMax;Leaf Wetness Max
+filiz-history;LWAvg;Leaf Wetness Avg
+filiz-history;LWMin;Leaf Wetness Min
+filiz-history;DewPointMax;Dew Point Max
+filiz-history;DewPointAvg;Dew Point Avg
+filiz-history;DewPointMin;Dew Point Min
+filiz-history;ChillingStdMax;Chilling Std Max
+filiz-history;ChillingStdAvg;Chilling Std Avg
+filiz-history;ChillingStdMin;Chilling Std Min
+filiz-history;ChillingUtahMax;Chilling Utah Max
+filiz-history;ChillingUtahAvg;Chilling Utah Avg
+filiz-history;ChillingUtahMin;Chilling Utah Min
+filiz-history;ChillingNCMax;Chilling NC Max
+filiz-history;ChillingNCAvg;Chilling NC Avg
+filiz-history;ChillingNCMin;Chilling NC Min
+filiz-history;GddUnitMax;GDD Max
+filiz-history;GddUnitAvg;GDD Avg
+filiz-history;GddUnitMin;GDD Min
+filiz-history;empty_gdd_header;Critical for GDD Data
+filiz-history;empty_gdd_desc;Add plantation and harvest dates to view graph history.
+filiz-history;add_gdd_button;Enter Dates
+filiz-history;empty_chilling_header;Critical for Chilling Hours Data
+filiz-history;empty_chilling_desc;Add Chilling Hours calculation period to view graph history.
+filiz-history;add_chilling_button;Specify Period
+filiz-history;ChillingStd;Chilling Hours
+filiz-history;export-selected-graph;Export selected graph data
+filiz-history;export-all-data;Export all seasonal data
+filiz-history;graphs_max;max
+filiz-history;graphs_min;min
+filiz-history;graphs_avg;avg
+filiz-history;action-required;Action required
+filiz-history;AirTemperature;Air Temperature
+filiz-history;AirHumidity;Air Humidity
+add_photo_options_title;0;A
+add_photo_options_title;1;d
+add_photo_options_title;2;d
+add_photo_options_title;3; 
+add_photo_options_title;4;P
+add_photo_options_title;5;h
+add_photo_options_title;6;o
+add_photo_options_title;7;t
+add_photo_options_title;8;o
+options_take_photo_lbl;0;T
+options_take_photo_lbl;1;a
+options_take_photo_lbl;2;k
+options_take_photo_lbl;3;e
+options_take_photo_lbl;4; 
+options_take_photo_lbl;5;P
+options_take_photo_lbl;6;h
+options_take_photo_lbl;7;o
+options_take_photo_lbl;8;t
+options_take_photo_lbl;9;o
+options_choose_library_lbl;0;C
+options_choose_library_lbl;1;h
+options_choose_library_lbl;2;o
+options_choose_library_lbl;3;o
+options_choose_library_lbl;4;s
+options_choose_library_lbl;5;e
+options_choose_library_lbl;6; 
+options_choose_library_lbl;7;f
+options_choose_library_lbl;8;r
+options_choose_library_lbl;9;o
+options_choose_library_lbl;10;m
+options_choose_library_lbl;11; 
+options_choose_library_lbl;12;G
+options_choose_library_lbl;13;a
+options_choose_library_lbl;14;l
+options_choose_library_lbl;15;l
+options_choose_library_lbl;16;e
+options_choose_library_lbl;17;r
+options_choose_library_lbl;18;y
+add_photo;0;A
+add_photo;1;d
+add_photo;2;d
+add_photo;3; 
+add_photo;4;P
+add_photo;5;h
+add_photo;6;o
+add_photo;7;t
+add_photo;8;o
+photo_gallery_title;0;P
+photo_gallery_title;1;h
+photo_gallery_title;2;o
+photo_gallery_title;3;t
+photo_gallery_title;4;o
+photo_gallery_title;5;s
+no_photo_added_alert;0;N
+no_photo_added_alert;1;o
+no_photo_added_alert;2; 
+no_photo_added_alert;3;p
+no_photo_added_alert;4;h
+no_photo_added_alert;5;o
+no_photo_added_alert;6;t
+no_photo_added_alert;7;o
+no_photo_added_alert;8;s
+support;main_title;Ask the Expert
+support;ask_btn;Ask
+support;add_new_question;Ask New Question
+support;details_subtitle;Details
+support;my_fields_lbl;My Fields
+support;crop_type_lbl;Crop
+support;problem_lbl;Problem
+support;description_placeholder;Description
+support;add_photo_placeholder;Add Photo (optional)
+support;ask_question;Ask
+support;field_list_title;My Fields
+support;error_on_save_question;An error occurred while saving your question.
+support;question_title;Question
+support;error_on_get_question;An error occurred while accessing question details.
+support;no_farm_associated;Field not found
+support;did_you_find_answer_sufficient;Did you find the answer of our expert sufficient?
+support;description_title;Description
+support;add_question_desc;You can ask your first question by clicking the button below.
+support;ask_first_question_btn;Ask First Question
+support;no_question_asked_yet;You have not asked any questions yet
+support;error_on_getting_questions;An error occurred while fetching questions.
+support;healt_map_analysis_title;Vegetation Distribution
+support;view_as_list_lbl;View as a list
+support;view_as_chart_lbl;View as a graph
+notifications;main_title;Notifications
+notifications;precipitation;Precip
+notifications;rainfall-forecast-and-warning;Rainfall forecast and warning
+notifications;storm;Storm
+notifications;upcoming-storm-warning;Upcoming storm warning
+notifications;soil-moisture-status;Soil moisture status
+notifications;soil-moisture-status-warning;Soil moisture status warning
+notifications;disease-risk-status;Disease risk status
+notifications;disease-risk-status-warning;Disease risk status warning
+notifications;pest-increase;Pest increase
+notifications;number-of-pests-catched;Number of pests catched
+notifications;expert's-answer;Expert's answer
+notifications;answer-from-agronomist;Answer from agronomist
+notifications;on-status;On status
+notifications;device-is-on;Device is on
+notifications;off-status;Off status
+notifications;device-is-off;Device is off
+notifications;tilting-device;Tilting device
+notifications;Weather;Weather
+notifications;Agricultural;Agricultural
+notifications;Other;Other
+notifications;device-is-tilted;Device is tilted
+notifications;empty-header;You have no current notifications
+notifications;empty-content;Please check back later.
+notifications;Meteorological;Meteorological
+notifications;Heavy-Rainfall;Heavy Rainfall
+notifications;Upcoming-Storm;Upcoming Storm
+notifications;Weather-Forecast;Weather Forecast
+notifications;New-Satellite-Images;New Satellite Images
+notifications;Irrigation-Schedule-Ready;Irrigation Schedule Ready
+notifications;Irrigation-Schedule-Updated;Irrigation Schedule Updated
+notifications;Irrigation-Reminder;Irrigation Reminder
+notifications;Frost-Risk;Frost Risk
+notifications;Disease-Risk;Disease Risk
+notifications;Frost-Risk-Warning;Frost Risk Warning
+notifications;Low-Soil-Moisture;Low Soil Moisture
+notifications;Ongoing-Low-Soil-Moisture;Ongoing Low Soil Moisture
+notifications;Fungal-Disease-Risk;Fungal Disease Risk
+notifications;Ongoing-Fungal-Disease-Risk;Ongoing Fungal Disease Risk
+notifications;Spraying-Wash-Out;Spraying Wash Out
+notifications;High-Windspeed-and-Storm;High Wind Speed and Storm
+notifications;Rainfall-Warning;Rainfall Warning
+notifications;Pest-Number-Increase;Pest Number Increase
+notifications;Sudden-Pest-Number-Increase;Sudden Pest Number Increase
+notifications;Irrigation;Irrigation
+notifications;Rainfall-Started;Rainfall Started
+notifications;High-Air-Humidity;High Air Humidity
+notifications;Rise-in-Soil-Moisture;Soil Moisture Increase
+irrigation;irrigation-status;Irrigation Status
+irrigation;irrigation-needed;Irrigation needed
+irrigation;no-need;No need. You're all set
+irrigation;cm;cm
+irrigation;current-soil-moisture;CURRENT SOIL MOISTURE
+irrigation;minimum-soil-moisture;MINIMUM SOIL MOISTURE
+irrigation;wet;WET
+irrigation;dry;DRY
+irrigation;expected-precipitation;Expected Precipitation
+irrigation;mm;mm
+irrigation;add-irrigation;Add Irrigation
+irrigation;add-irrigation-information;Add Irrigation information
+irrigation;irrigation-amount;Irrigation amount
+irrigation;irrigation-method;Irrigation method
+irrigation;fertilizer;Fertilizer
+irrigation;spraying;Spraying
+irrigation;irrigation-starts-on;Irrigation starts on
+irrigation;irrigation-ends-on;Irrigation ends on
+irrigation;irrigation;Irrigation
+irrigation;irrigation-time;Irrigation time
+irrigation;irrigation-duration;Irrigation duration
+irrigation;add-irrigation-details;Irrigation Details
+irrigation;last-irrigation-date;Last irrigation date
+irrigation;irrigation-date;Irrigation date
+irrigation;24-hour;for 24 hours
+irrigation;required;Required Field
+irrigation;empty-header;No irrigation data could be found
+irrigation;empty-content;If you’ve have irrigated recently, please add by tapping on the button below
+irrigation;enter-date;Enter a date
+irrigation;not-equal-dates;Start date must be different from end date.
+irrigation;error;An error has been encountered.
+irrigation;irrigation-unit;Unit
+irrigation;prepare-irrigation;Getting your irrigation status...
+irrigation;change-date;The irrigation end date must be greater than the start date.
+irrigation;Wet;Wet
+irrigation;sufficient;Optimal
+irrigation;Dry;Dry
+irrigation;min-soil-moisture;Minimum Soil Moisture
+irrigation;soil-moisture-info;The sensor with the highest moisture variation is closest to the effective root zone. We recommend that you monitor this sensor closely.
+irrigation;not-calculated;Not calculated yet
+irrigation;irrigation-status-info;If you recently irrigated, keep in mind that it may take a few days for the moisture values to rise.
+irrigation;max-soil-moisture;Maximum Soil Moisture
+irrigation;Full;Saturated
+chart-value;AirTemperature;Temperature value measured by Filiz's top air sensor.
+chart-value;AirHumidity;Humidity value measured by Filiz's top humidity sensor.
+chart-value;SoilSurfaceTemperature;Temperature value measured by Filiz's bottom air sensor.
+chart-value;SoilSurfaceHumidity;Humidity value measured by Filiz's bottom air sensor.
+chart-value;UnderSoilTemperature;Temperature value measured by Filiz's under soil sensor.
+chart-value;UnderSoilHumidity;Humidity value measured by Filiz's under soil sensor.
+chart-value;UnderSoilHumidity1;Humidity value measured by Filiz's under soil sensor.
+user-manual;play_audio_opening_melody;Power On
+user-manual;play_audio_closing_melody;Shut Down
+user-manual;play_audio_status_on_melody;On
+user-manual;play_audio_status_off_melody;Off
+user-manual;play_audio_busy_melody;Busy
+user-manual;error_on_user_manual;An error occured during loading the user manual!
+location-info;empty-header;Enter your current location
+location-info;empty-content;You can find your location with the search
+location-info;empty-header-1;The location you are looking for does not exist
+location-info;empty-content-1;Look for a different location
+location-info;loc;Enter location
+location-info;previous_location;Previous Location
+tab;home;Home
+tab;map;Map
+tab;history;History
+tab;profile;Profile
+tab;conditions;Conditions
+permission_alerts;close_btn;OK
+permission_alerts;open_settings_btn;Open Settings
+permission_alerts;camera_permisson_denied_desc;To continue, please enable camera access in the device Settings.
+permission_alerts;camera_permisson_denied_title;IoTrack Would Like to Access Your Camera
+permission_alerts;photos_permisson_denied_desc;To continue, please enable access to your photo library in the device Settings.
+permission_alerts;photos_permisson_denied_title;IoTrack Would Like to Access Your Photos
+permission_alerts;location_permisson_denied_desc;For a better IoTrack experience, please adjust your location permissions in the device Settings.
+permission_alerts;location_permisson_denied_title;IoTrack Would Like to Access Your Location
+crop-variety;Genel;General
+crop-variety;Erkenci;Early
+crop-variety;Geç;Late
+my-fields;shared_field_removed_title_singular;Your field “{{farm}}” has been removed
+my-fields;shared_field_removed_desc;This field has been deleted from the platform it was created on, so it’s been removed here as well.
+my-fields;shared_field_removed_primary_btn;OK, great
+my-fields;n_of_your_fields_have_been_deleted;{{count}} of your fields have been removed
+my-fields;multiple_shared_fields_removed_desc;These fields have been deleted from the platform it was created on, so it’s also been removed from this platform.
+my-fields;shared_field_removed_secondary_btn;See the deleted fields list
+my-fields;followed_fields_removed;The following {{count}} fields have been removed:
+my-fields;got_it_btn;OK, got it
+walkthrough;graph_chart_header;Hold and drag to explore data points
+walkthrough;graph_chart_desc;View your graph in detail and track each data point.
+walkthrough;next_btn_text;Next
+walkthrough;graph_opts_header;Select which graph to view
+walkthrough;graph_opts_desc;Scroll horizontally to pick a data source.
+walkthrough;graph_filter_header;Apply filters to enhance graph details
+walkthrough;graph_filter_desc;Select timeframes or dates and export if needed.
+walkthrough;got_it_btn_text;Got it
+walkthrough;done_btn_text;Done
+walkthrough;graph_date_opts_header;Toggle between timeframes
+walkthrough;graph_date_opts_desc;View your data by any selected period.
+walkthrough;trap_graph_chart_header;Hold and drag to explore data points
+walkthrough;trap_graph_chart_desc;Monitor changes in pest count and view spraying dates.
+walkthrough;trap_graph_filter_header;Apply filters to enhance graph details
+walkthrough;trap_graph_filter_desc;Select timeframes or dates and export if needed.
+walkthrough;trap_graph_type_header;Select pest types
+walkthrough;trap_graph_type_desc;View the impact of pest types on your field.

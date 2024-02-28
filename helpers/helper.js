@@ -115,20 +115,18 @@ module.exports = {
     let content = fs.readFileSync(process.cwd() + "/" + filename).toString();
     console.log("Process Start Read File...");
     let result = JSON.parse(content);
-    let retval = "";
-    
-    let path = fileNameParam.replace(".json", "") + ".csv";
-    var stream = fs.createWriteStream(path);
-
+    let retval = [];
     Object.keys(result).forEach(key => {
         Object.keys(result[key]).forEach(subKey=>{
-          retval = retval + key +","+ subKey +","+ result[key][subKey];
-          retval = retval + "\n";
+          retval.push(key +";"+ subKey +";"+ result[key][subKey]);
         });
     });
-    
+   let aa = retval.join('\n');
+   console.log(aa);
+    let path = fileNameParam.replace(".json", "") + ".csv";
+    var stream = fs.createWriteStream(path);
     stream.once("open", function (fd) {
-      stream.write(JSON.stringify(retval));
+      stream.write(aa);
       stream.end();
       console.log("Process End Write File...");
     });
